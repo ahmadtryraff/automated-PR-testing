@@ -1,0 +1,4164 @@
+{
+  "common": {
+    "retailerBio": "Retailer Bio",
+    "back": "Back",
+    "description": "Description",
+    "acceptedProducts": "Accepted Products",
+    "percentageCommission": "As Commission",
+    "clearFilter": "Clear filter",
+    "noBrand": "No brand found matching your filters",
+    "orderNumber": "Order Numbers",
+    "pdfViewer": "Please upload a PDF to view the content.",
+    "copyLink": "Copy Link",
+    "duplicate": "Duplicate",
+    "greeting": "Hello",
+    "completeProfile": "Complete Your Profile",
+    "dashboard": "Dashboard",
+    "analytics": "Analytics",
+    "orders": "Orders",
+    "Orders": "ORDERS",
+    "products": "Products",
+    "customers": "Customers",
+    "settings": "Settings",
+    "logout": "Logout",
+    "search": "Search",
+    "notifications": "Notifications",
+    "profile": "Profile",
+    "help": "Help",
+    "language": "Language",
+    "theme": "Theme",
+    "dark": "Dark",
+    "light": "Light",
+    "system": "System",
+    "activity": "Activity",
+    "integrations": "Integrations",
+    "addAccount": "Add Account",
+    "termsAndConditions": "Terms & Conditions",
+    "To": "TO:",
+    "From": "FROM:",
+    "rawan": "Rawan",
+    "stationary": "Stationary",
+    "explore": "Explore",
+    "agreements": "Agreements",
+    "Agreement": "AGREEMENT",
+    "AgreementName": "Agreement Name",
+    "sales": "Sales",
+    "chat": "Chat",
+    "businessAssets": "Business Assets",
+    "inventory": "Inventory",
+    "shipping": "Shipping",
+    "more": "More",
+    "profileSettings": "Profile Settings",
+    "actionCenter": "Action Center",
+    "welcome": "Welcome to our dashboard!",
+    "user": "User",
+    "teams": "Teams",
+    "calendar": "Calendar",
+    "timeOff": "Time Off",
+    "projects": "Projects",
+    "benefits": "Benefits",
+    "documents": "Documents",
+    "partnerRelations": "Partner Relations",
+    "favs": "Favorites",
+    "support": "Support",
+    "welcomeTitle": "Welcome, {name}!",
+    "welcomeSubtitle": "Here's your dashboard overview.",
+    "totalBalance": "Total Balance",
+    "shareReferral": "Share your referral link",
+    "getRewards": "Get rewards for inviting friends!",
+    "copyReferral": "Copy your referral link below:",
+    "copy": "Copy",
+    "newFeature": "New Feature",
+    "prev": "Previous",
+    "next": "Next",
+    "exploreNow": "Explore Now",
+    "income": "Income",
+    "product": "Product",
+    "up": "Up",
+    "order": "Order",
+    "raffMap": "Raff Map",
+    "ksa": "KSA",
+    "retailers": "Retailers",
+    "retailer": "Retailer",
+    "retailerName": "Retailer Name",
+    "selectVendor": "Select vendor",
+    "selectBrand": "Select brand",
+    "Cost": "COST",
+    "cost": "Cost",
+    "locationsLabel": "Locations",
+    "avgSales": "Avg. Sales",
+    "navigate": "Navigate",
+    "neededAction": "Needed Action",
+    "seeAll": "See All",
+    "taskName": "Task Name",
+    "taskDescription": "This is a description for the task.",
+    "paymentFromStock": "Payment from stock",
+    "refundOrder": "Refund order",
+    "takeAction": "Take Action",
+    "userName": "{name}",
+    "welcomeBack": "Welcome back to Raff 👋🏻",
+    "trackOrders": "Track Orders",
+    "expand": "Expand",
+    "completeBusinessProfile": "Complete Business Profile",
+    "createFirstAgreement": "Create 1st Agreement",
+    "exploreBrands": "Explore Brands",
+    "exploreBrandsDescription": "Explore and search different brands.",
+    "brandLocationMap": "Brand Location Map",
+    "productsCategories": "Products Categories",
+    "digitalAppearance": "Digital Appearance",
+    "offeredProducts": "Offered Products",
+    "totalProducts": "As Total Products",
+    "viewMoreDetails": "View More Details",
+    "inviteToday": "Invite Today!",
+    "brandCategories": "BRAND CATEGORIES",
+    "brandInfo": "Brand Information",
+    "brandBio": "Brand Bio",
+    "brandProducts": "Brand Products",
+    "brandLocations": "Brand Locations",
+    "brandAgreement": "Brand Agreement",
+    "brandCommercials": "Commercial Terms",
+    "brandCommission": "Commission",
+    "brandPaymentCycle": "Payment Cycle",
+    "brandSetupFees": "Setup Fees",
+    "brandDuration": "Duration",
+    "brandAdmissionPeriod": "Admission Period",
+    "brandAutoRenewal": "Auto Renewal",
+    "brandWebsite": "Website",
+    "brandInstagram": "Instagram",
+    "brandPhone": "Phone",
+    "brandEmail": "Email",
+    "brandAddress": "Address",
+    "brandVAT": "VAT Number",
+    "brandOwner": "Owner",
+    "brandDescription": "Description",
+    "brandProductsCount": "Products Count",
+    "brandBranches": "Branches",
+    "brandAgreementNumber": "Agreement Number",
+    "brandAgreementType": "Agreement Type",
+    "brandAgreementDescription": "Agreement Description",
+    "brandAgreementStartDate": "Start Date",
+    "brandAgreementEndDate": "End Date",
+    "brandAgreementStatus": "Status",
+    "brandAgreementStatusActive": "Active",
+    "brandAgreementStatusArchived": "Archived",
+    "brandAgreementStatusScheduled": "Scheduled",
+
+    "brandAgreementStatusPending": "Pending",
+    "brandAgreementStatusInactive": "Inactive",
+    "brandAgreementStatusDraft": "Draft",
+    "brandAgreementStatusExpired": "Expired",
+    "brandAgreementStatusTerminated": "Terminated",
+    "brandAgreementStatusSubmitted": "Submitted",
+    "brandAgreementStatusRejected": "Rejected",
+    "brandAgreementStatusAccepted": "Accepted",
+    "brandAgreementStatusCancelled": "Cancelled",
+    "brandAgreementStatusCompleted": "Completed",
+    "brandAgreementStatusFailed": "Failed",
+    "brandAgreementStatusProcessing": "Processing",
+    "brandAgreementStatusSettled": "Settled",
+    "brandAgreementStatusUnsettled": "Unsettled",
+    "brandAgreementStatusOverdue": "Overdue",
+    "brandAgreementStatusPaid": "Paid",
+    "brandAgreementStatusUnpaid": "Unpaid",
+    "brandAgreementStatusRefunded": "Refunded",
+    "brandAgreementStatusPartiallyRefunded": "Partially Refunded",
+    "brandAgreementStatusPartiallyPaid": "Partially Paid",
+    "brandAgreementStatusPartiallySettled": "Partially Settled",
+    "brandAgreementStatusPartiallyUnsettled": "Partially Unsettled",
+    "brandAgreementStatusPartiallyOverdue": "Partially Overdue",
+    "brandAgreementStatusPartiallyFailed": "Partially Failed",
+    "brandAgreementStatusPartiallyProcessing": "Partially Processing",
+    "brandAgreementStatusPartiallyCompleted": "Partially Completed",
+    "brandAgreementStatusPartiallyCancelled": "Partially Cancelled",
+    "brandAgreementStatusPartiallyAccepted": "Partially Accepted",
+    "brandAgreementStatusPartiallyRejected": "Partially Rejected",
+    "brandAgreementStatusPartiallySubmitted": "Partially Submitted",
+    "brandAgreementStatusPartiallyTerminated": "Partially Terminated",
+    "brandAgreementStatusPartiallyExpired": "Partially Expired",
+    "brandAgreementStatusPartiallyDraft": "Partially Draft",
+    "brandAgreementStatusPartiallyInactive": "Partially Inactive",
+    "brandAgreementStatusPartiallyPending": "Partially Pending",
+    "brandAgreementStatusPartiallyActive": "Partially Active",
+    "createRetailers": "Create Retailers",
+    "sendFirstInvitation": "Send First Invitation",
+    "descriptionText": "This's a description text only to display",
+    "searchLocation":"Search for a location",
+    "seeDetails":"Who can see this agreement",
+    "percentageSale":"Percentage earned per sale",
+    "paymentsMade":"How often payments are made",
+    "setupCost":"Initial agreement setup cost",
+    "agreementLasts":"How long agreement lasts",
+    "expired": "Expired",
+    "expiresToday": "Expires today",
+    "daysLeft": "days left",
+    "agreement": {
+      "number": "Agreement Number",
+      "visibility": "Visibility",
+      "descriptionText": "Description texts only",
+      "privateAgreement": "Private Agreement",
+      "publicAgreement": "Public Agreement",
+      "exclusiveAgreement": "Exclusive Agreement",
+      "contractCommercials": "Contract Commercials",
+      "commissionOnSales": "Commission on Sales",
+      "paymentCycle": "Payment Cycle",
+      "setupFees": "Setup Fees",
+      "durationAndPeriod": "Duration & Period",
+      "autoRenewal": "Auto Renewal"
+    },
+    "exploreRetailers":{
+      "title":"Explore Market Retailers",
+      "subtitle":"Explore and search different retailers."
+    },
+    "retailerAgreement": "Partner's Agreement",
+    "manageBrandAgreements": "Manage your brand agreements with brands.",
+    "exploreRetailerAgreements": "Explore and review various retailers' agreements.",
+    "newAgreement": "New Agreement",
+    "export": "Export",
+    "partnersAgreement": "Partners' Agreement",
+    "exploreAgreements": "Explore and search your own agreements.",
+    "agreementDetails": "Agreement Details",
+    "retailerBio": "Retailer Bio",
+    "generalAgreementDetails": "General Agreement Details",
+    "selectMenu": "SELECT MENU",
+    "agreementsDetails": "Agreement's Details",
+    "retailerGallery": "Retailer Gallery",
+    "termsAndConditions": "Terms and conditions",
+    "loadingAgreement": "Loading agreement details...",
+    "general": "General",
+    "brandsLabel": "Brands",
+    "table": {
+      "no": "No.",
+      "brands": "Brands",
+      "country": "Country",
+      "tags": "Tags",
+      "startingDate": "Starting Date",
+      "source": "Source",
+      "products": "Products",
+      "orders": "Orders",
+      "status": "Status",
+      "noBrandsFound": "No brands found matching your filters",
+      "moreTags": "+{count} more"
+    },
+    "applyFilter": "Apply Filters",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "deleting": "Deleting...",
+    "status": {
+      "active": "Active",
+      "pending": "Pending",
+      "inactive": "Inactive",
+      "draft": "Draft",
+      "expired": "Expired",
+      "terminated": "Terminated",
+      "created": "Created",
+      "inReview": "In Review",
+      "submit": "Submit",
+      "scheduled": "Scheduled",
+      "deactivated": "Deactivated",
+      "rejected": "Rejected",
+      "archived": "Archived"
+    },
+    "source": {
+      "raff": "Raff",
+      "internal": "Internal"
+    },
+    "gallery": {
+      "noImageSelected": "No image selected",
+      "primary": "Primary",
+      "remove": "Remove",
+      "agreementImages": "Agreement Images",
+      "uploadingImages": "Uploading images..."
+    },
+    "terms": {
+      "specialTermsAndConditions": "Special Terms And Conditions",
+      "noSpecialTerms": "No special terms specified."
+    },
+    "locations": {
+      "loadingMap": "Loading map...",
+      "noLocationsAvailable": "No locations available",
+      "website": "Website",
+      "branch": "Branch",
+      "branchAddress": "Branch Address",
+      "saudiArabia": "Saudi Arabia",
+      "full": "{country}",
+      "default": "Location not specified"
+    },
+    "agreementList": {
+      "participants": "Participants",
+      "brands": "Brands",
+      "pending": "Pending",
+      "offeredAgreement": "Offered Agreement",
+      "noAgreementsFound": "No agreements found",
+      "noProductsAvailable": "No products available",
+      "supportedLocations": "Supported Locations",
+      "website": "Website",
+      "branches": "Branches",
+      "online": "Online",
+      "visibility": "Visibility",
+      "selectRetailter": "Select retailer first",
+      "selectPayment": "Select payment cycle",
+      "status": {
+        "active": "Active",
+        "pending": "Pending",
+        "inactive": "Inactive",
+        "draft": "Draft",
+        "expired": "Expired",
+        "terminated": "Terminated",
+        "created": "Created",
+        "inReview": "In Review",
+        "submit": "Submit",
+        "scheduled": "Scheduled",
+        "deactivated": "Deactivated",
+        "rejected": "Rejected"
+      },
+      "table": {
+        "no": "No.",
+        "retailer": "Retailer",
+        "name": "Name",
+        "duration": "Duration",
+        "cycle": "Cycle",
+        "cost": "Cost",
+        "orders": "Orders",
+        "status": "Status"
+      }
+    },
+    "statsSummary": {
+      "retailerPartners": "Number of Retailer Partners",
+      "brandPartners": "Number of Brands & Partners",
+      "activeAgreements": "Active Agreements",
+      "pendingAgreements": "Pending Agreements",
+      "scheduledAgreements": "Scheduled Agreements",
+      "thisWeek": "this week",
+      "ofTotal": "of total"
+    },
+    "listFilter": {
+      "all": "ALL",
+      "active": "Active",
+      "inactive": "Inactive",
+      "pending": "Pending",
+      "terminated": "Terminated",
+      "rejected": "Rejected",
+      "expired": "Expired",
+      "searchPlaceholder": "Search by name or order number",
+      "filter": "Filter",
+      "sortBy": "Sort by",
+      "details": "Filter agreement details.",
+      "brandMinToMax": "Brand \"min to max\"",
+      "brandMaxToMin": "Brand \"max to min\"",
+      "offeredAgreementMinToMax": "Offered Agreement \"min to max\"",
+      "offeredAgreementMaxToMin": "Offered Agreement \"max to min\"",
+      "branchesMinToMax": "Branches \"min to max\"",
+      "branchesMaxToMin": "Branches \"max to min\"",
+
+      "ordersMinToMax": "Orders \"min to max\"",
+      "ordersMaxToMin": "Orders \"max to min\"",
+      "costMinToMax": "Cost \"min to max\"",
+      "costMaxToMin": "Cost \"max to min\""
+    },
+    "totalBrands": "Total Brands",
+    "totalRetailers": "Total Retailers",
+    "totalProducts": "Total Products",
+    "totalBranches": "Total Branches",
+    "statsChange": "+{count} this week",
+    "retailerSearch": {
+      "search":"Search...",
+      "searchPlaceholder": "Search Retailers ...",
+      "country": "Country",
+      "countries": {
+        "saudi": "Saudi Arabia",
+        "uae": "UAE",
+        "usa": "USA"
+      },
+      "dateRange": {
+        "label": "Last 7 days",
+        "last7": "Last 7 days",
+        "last30": "Last 30 days",
+        "all": "All",
+        "last14": "Last 14 days"
+      },
+      "sort": {
+        "label": "Newest",
+        "newest": "Newest",
+        "oldest": "Oldest"
+      },
+      "filter": "Filter"
+    },
+    "brandExploreDetails": {
+      "details": "DETAILS",
+      "brandBio": "Brand Bio",
+      "products": "Products",
+      "brandDetails": "Brand's Details",
+      "brandDetailsSubtitle": "View brand's details and an invitation for a new agreement",
+      "discard": "Discard",
+      "sendInvite": "Send Invite",
+      "downloadFile": "Download the product file",
+      "category": "Product's Category",
+      "search": "Search products..."
+    },
+    "exploreModal": {
+      "title": "Explore now and see what Raff has to offer!",
+      "description": "Ready to shop, explore, and uncover hidden gems? 🗺️\nBrowse local and global retailers in Raff on the map\nFind your favorites, discover new spots, and support your businesses\n— all just a tap away!",
+      "exploreNow": "Explore NOW!",
+      "altLogo": "Raff Logo",
+      "altExplore": "Explore"
+    },
+    "brandBioStep": {
+      "source": "Source",
+      "addTag": "Add Tag",
+      "addTagPlaceholder": "Add tags...",
+      "addTagHint": "add tag for this brand to make it easier to found",
+      "description": "Description",
+      "productsCategories": "Products Categories",
+      "digitalAppearance": "Digital Appearance",
+      "website": "Website",
+      "instagram": "Instagram",
+      "categories": {
+        "dresses": "Dresses",
+        "perfume": "Perfume",
+        "clothing": "Clothing",
+        "accessories": "Accessories",
+        "electronics": "Electronics",
+        "stationery": "Stationery",
+        "shoes": "Shoes",
+        "bags": "Bags"
+      }
+    },
+    "productsStep": {
+      "description": "Description",
+      "weight": "Weight",
+      "cost": "Cost",
+      "manufacturer": "Manufacturer",
+      "sku": "SKU",
+      "private": "Private",
+      "onDemand": "On-demand",
+      "update": "Update",
+      "archive": "Archive",
+      "expandDetails": "Expand product details",
+      "collapseDetails": "Collapse product details",
+      "noProductsAvailable": "No products available"
+    },
+    "sendAgreementModal": {
+      "title": "Send Agreement",
+      "subtitle": "Select the agreement to be sent to the Brand",
+      "altLogo": "Raff Logo",
+      "offeredAgreement": "OFFERED AGREEMENT",
+      "supportedLocations": "SUPPORTED LOCATIONS",
+      "loadMore": "Load More Agreements",
+      "errorSending": "Error sending agreement Try sending different agreement",
+      "cancel": "Cancel",
+      "confirm": "Confirm",
+      "agreementTypes": {
+        "spaceRental": "Space Rental",
+        "consignment": "Consignment"
+      },
+      "officialFullName": "Official Full Name",
+      "categories": "Categories",
+      "businessWebsite": "Business Website",
+      "instagram": "Instagram",
+      "ownerName": "Name of the Owner",
+      "email": "Email",
+      "mobileNumber": "Mobile Number",
+      "nationalAddress": "National Address",
+      "vatNumber": "VAT Number",
+      "reviewStep": "Review your data",
+      "confirmStep": "Confirm",
+      "reviewTitle": "Review your data",
+      "reviewSubtitle": "Provide essential information to proceed.",
+      "confirmTitle": "Are you sure!",
+      "confirmSubtitle": "Provide essential information to proceed.",
+      "uploadLogo": "شعار الأعمال",
+      "logoHint": "400x400px",
+      "remove": "Remove",
+      "change": "Change",
+      "upload": "Upload",
+      "continue": "Continue",
+      "businessLogoAlt": "Business Logo",
+      "termsAgreement": "I agree to all the terms and conditions related to contracting with the point of sale.",
+      "cancel": "Cancel",
+      "confirm": "Confirm"
+    },
+    "successModal": {
+      "title": "Successfully sent",
+      "description": "We have successfully received your request.\nYour request will be responded to as soon as possible",
+      "viewDetails": "View Details"
+    },
+    "brand": {
+      "title": "Brand",
+      "logo": "Brand Logo",
+      "description": "Brand Description"
+    },
+    "tags": {
+      "online": "Online",
+      "riyadh": "Riyadh"
+    },
+    "cancelModal": {
+      "title": "Cancel Order",
+      "message": "Are you sure you want to cancel this order? This action cannot be undone.",
+      "actions": {
+        "cancel": "No, Keep Order",
+        "confirm": "Yes, Cancel Order"
+      },
+      "alt": {
+        "warning": "Warning icon"
+      }
+    },
+    "period": {
+      "monthly": "Monthly",
+      "weekly": "Weekly",
+      "yearly": "Yearly"
+    },
+    "sendInvite": "Send Invite",
+    "discard": "Discard",
+    "agreementDetailsStep": {
+      "agreementNumber": "Agreement Number",
+      "contractCommercials": "Contract Commercials",
+      "commissionOnSales": "Commission on Sales",
+      "paymentCycle": "Payment Cycle",
+      "setupFees": "Setup Fees",
+      "durationAndPeriod": "Duration & Period",
+      "admissionPeriod": "Admission Period",
+      "autoRenewal": "Auto Renewal",
+      "editAgreementDetails": "Edit Agreement Details",
+      "agreementType": "Agreement Type",
+      "description": "Description",
+      "saveChanges": "Save Changes"
+    },
+    "partnerDetailsModal": {
+      "personalSettings": "PERSONAL SETTINGS",
+      "search": "Search products...",
+      "category": "Product's Category",
+      "downloadFile": "Download the product file",
+      "details": "DETAILS",
+      "brandBio": "Brand Bio",
+      "brandBioAlt": "Brand Bio",
+      "brandsDetails": "Brand's Details",
+      "close": "Close",
+      "viewBrandsDetails": "View brand's details",
+      "partnersAgreementDetails": "Partner's Agreement Details",
+      "discard": "Discard",
+      "viewRetailersDetails": "View retailer's details and send agreement",
+      "products": "Products",
+      "businessTogether": "Let's do business together!",
+      "steps": {
+        "retailerBio": "Retailer Bio",
+        "agreementDetails": "Agreement's Details",
+        "gallery": "Gallery",
+        "terms": "Terms",
+        "locations": "Locations",
+        "agreementActivity": "Agreement Activity"
+      }
+    },
+    "retailerBioStep": {
+      "category": "Category",
+      "description": "Description",
+      "acceptedProducts": "Accepted Products",
+      "digitalAppearance": "Digital Appearance",
+      "website": "Website",
+      "instagram": "Instagram",
+      "retailerLogo": "Retailer Logo",
+      "noLogo": "No logo",
+      "uploadLogo": "Upload logo",
+      "uploadLogoDescription": "Upload a logo for the retailer. The logo will be displayed in the agreements list and details.",
+      "remove": "Remove",
+      "basicInformation": "Basic Information",
+      "businessName": "Business Name",
+      "businessNamePlaceholder": "Enter business name",
+      "location": "Location",
+      "locationPlaceholder": "City, Country",
+      "descriptionPlaceholder": "Enter business description",
+      "digitalPresence": "Digital Presence",
+      "websitePlaceholder": "https://example.com",
+      "instagramPlaceholder": "@username",
+      "saveChanges": "Save Changes",
+
+      "productCategories": {
+        "label": "Product Categories",
+        "dresses": "Dresses",
+        "perfume": "Perfume",
+        "clothing": "Clothing",
+        "accessories": "Accessories",
+        "electronics": "Electronics",
+        "stationery": "Stationery",
+        "shoes": "Shoes",
+        "bags": "Bags",
+        "watches": "Watches",
+        "jewelry": "Jewelry",
+        "books": "Books"
+      }
+    },
+    "agreementActivityStep": {
+      "agreementContractNumber": "Agreement/Contract Number",
+      "agreementContractNumberDesc": "Unique agreement identification number",
+      "agreementsInitiator": "Agreement's Initiator",
+      "agreementsInitiatorDesc": "Business that started agreement",
+      "agreementsDuration": "Agreement's Duration",
+      "agreementsDurationDesc": "Agreement start and end dates",
+      "agreementStatus": "Agreement Status",
+      "agreementStatusDesc": "Current agreement state",
+      "totalOrders": "Total Orders",
+      "totalOrdersDesc": "Total completed orders count",
+      "totalSales": "Total Sales",
+      "totalSalesDesc": "Total revenue generated amount",
+      "descriptionText": "Description texts only",
+      "requestedOn": "Requested on",
+      "days": "Days",
+      "status": {
+        "active": "Active",
+        "pending": "Pending",
+        "terminated": "Terminated"
+      },
+      "actions": {
+        "terminateAgreement": "Terminate Agreement",
+        "createNewOrder": "Create New Order",
+        "chat": "Chat"
+      },
+      "alt": {
+        "terminate": "Terminate",
+        "newOrder": "New Order",
+        "chat": "Chat"
+      }
+    },
+    "activityStep": {
+      "agreementContractNumber": "Agreement/Contract Number",
+      "agreementContractNumberDesc": "Unique agreement identification number",
+      "agreementsInitiator": "Agreement's Initiator",
+      "agreementsInitiatorDesc": "Business that started agreement",
+      "agreementsDuration": "Agreement's Duration",
+      "agreementsDurationDesc": "Agreement start and end dates",
+      "agreementStatus": "Agreement Status",
+      "agreementStatusDesc": "Current agreement state",
+      "totalOrders": "Total Orders",
+      "totalOrdersDesc": "Total completed orders count",
+      "totalSales": "Total Sales",
+      "totalSalesDesc": "Total revenue generated amount",
+      "descriptionText": "Description texts only",
+      "requestedOn": "Requested on",
+      "days": "Days",
+      "actions": {
+        "rejectAgreement": "Reject Agreement",
+        "acceptTerms": "Accept Terms",
+        "processing": "Processing..."
+      }
+    },
+    "confirmationModal": {
+      "title": "Confirm sending invitation",
+      "description": "Sending this agreements will be shared with retailers, need to wait for approval",
+      "cancel": "Cancel",
+      "confirm": "Confirm"
+    },
+    "website": "Website",
+    "instagram": "Instagram",
+    "loading": "Loading...",
+
+    "enrollToday": "Enroll Today",
+    "retailerCategories": "Retailer Categories",
+    "offeredAgreement": "Offered Agreement",
+    "supportedLocations": "Supported Locations"
+  },
+  "login": {
+    "title": "Sign in to your account",
+    "subtitle": "Welcome back! Please enter your details.",
+    "forgotPassword": "Forgot password?",
+    "submitting": "Signing in...",
+    "submit": "Sign in",
+    "noAccount": "Don't have an account?",
+    "register": "Register"
+  },
+  "auth": {
+    "copyright": "© 2025 RAFF",
+    "dontHaveAccount": "Don't have an account?",
+    "register": "Register",
+    "alreadyHaveAccount": "Already have an account?",
+    "needHelp": "Need help?",
+    "contactUs": "Contact us",
+    "login": "Login",
+    "changedYourMind": "Changed your mind?",
+    "goBack": "Go back",
+    "emailAddress": "Email Address",
+    "password": "Password",
+    "keepMeLoggedIn": "Keep me logged in",
+    "forgotPassword": "Forgot password?",
+    "enterDetailsToLogin": "Enter your details to login.",
+    "loginToYourAccount": "Login to your account",
+    "signInWithGoogle": "Sign in with Google",
+    "or": "OR",
+    "create_a_new_account": "Create a new account",
+    "get_started_by_submitting_email_address": "Get started by submitting your email address.",
+    "select_your_business_type": "Select your business type",
+    "im_a_brand_i_own_products": "I'm A Brand (I own products)",
+    "join_as_brand_to_access_raff": "Join as Brand to access Raff.",
+    "im_a_retailer_i_sell_products": "I'm A Retailer (I sell products)",
+    "join_as_an_retailer_to_access_raff": "Join as a Retailer to access Raff.",
+    "continue": "Continue",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "mobileNumber": "Mobile Number",
+    "registering": "Registering...",
+    "getStarted": "Get Started",
+    "iAgreeToThe": "I agree to the",
+    "termsAndConditions": "Terms and Conditions",
+    "and": "and",
+    "privacyPolicy": "Privacy Policy",
+    "alreadyHaveAnAccount": "Already have an account?",
+    "passwordRequirements": "Password must contain {requirements}.",
+    "passwordMinChars": "min. 8 characters",
+    "passwordUpperCase": "1 upper case letter",
+    "passwordNumber": "1 number",
+    "googleSignupFailed": "Google login failed",
+    "registerSuccess": "User registered successfully, please login with google to continue",
+    "loginSuccess": "Login successful!",
+    "operationSuccess": "Operation completed successfully!",
+    "signupWithGoogle": "Sign up with Google",
+    "an_error_occurred_while_verifying_the_password": "An error occurred while verifying the password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm Password",
+    "resetPassword": "Reset Password",
+    "loading": "Loading...",
+    "enterEmailToResetPassword": "Enter your email address to reset your password."
+  },
+  "onboarding": {
+    "welcome": "WELCOME {name} to RAFF!",
+    "completeSetup": "Complete the setup now and let's fly!",
+    "completeProfile": "Complete Your Profile",
+    "createRetailers": "Create Retailers",
+
+    "completeBusinessProfile": {
+      "title": "Complete Business Profile",
+      "description": "This's a description text only to display"
+    },
+    "createFirstAgreement": {
+      "title": "Create 1st Agreement",
+      "description": "This's a description text only to display",
+      "button": "Create First Agreement"
+    },
+    "exploreBrands": {
+      "title": "Explore Brands and Send 1st invitation",
+      "description": "This's a description text only to display",
+      "button": "Send First Invitation"
+    },
+    "brand": {
+      "sidebar": {
+        "step1": "Step 1/3",
+        "step2": "Step 2/3",
+        "step3": "Step 3/3",
+        "completeBusinessProfile": "Complete Business Profile",
+        "createFirstProduct": "Create 1st product",
+        "exploreRetailers": "Explore Retailers and Send 1st agreement",
+        "saveForLater": "Save for later",
+        "copyright": "© 2025 Raff"
+      },
+      "preview": {
+        "title": "Preview",
+        "subtitle": "This is how your business will appear.",
+        "businessImage": "Business Image",
+        "imageSize": "400x400px",
+        "countryCity": "Country,City",
+        "businessNamePlaceholder": "Here's The Business Trading Name",
+        "digitalAppearance": "DIGITAL APPEARANCE",
+        "digitalAppearancePlaceholder": "Digital Appearance",
+        "website": "Website",
+        "instagram": "Instagram",
+        "productTypes": "PRODUCT TYPES",
+        "productTypesPlaceholder": "Product Types",
+        "appearToOthers": "This link will appear to other businesses",
+        "statusPreview":"Brand updated successfully!"
+      },
+      "form": {
+        "backToPage": "< Back to page",
+        "completeBusinessDetails": "Complete Business details",
+        "boostSales": "Boost sales with detailed business information",
+        "createFirstProduct": "Create 1st Product",
+        "addFirstProduct": "Add your first product to get started.",
+        "exploreRetailer": "Explore Retailer",
+        "startSelling": "Explore Retailer and start selling now!",
+        "products": "Products",
+        "subheading": "Manage your product catalog and add more products as needed.",
+
+        "logoUpload": {
+          "title": "Upload Business Logo",
+          "description": "Min 400x400px, PNG or JPEG",
+          "upload": "Upload",
+          "remove": "Remove",
+          "change": "Change"
+        },
+        "businessTradeName": {
+          "label": "Business trade name",
+          "placeholder": "Type your brand name here"
+        },
+        "businessCategory": {
+          "label": "Business category",
+          "placeholder": "Select categories...",
+          "selectCategories": "Select Categories"
+        },
+        "businessCountry": {
+          "label": "Business Country \"Location\"",
+          "placeholder": "Select a country..."
+        },
+        "businessCity": {
+          "label": "Business City",
+          "placeholder": "Select a city...",
+          "selectCountryFirst": "Select a country first..."
+        },
+        "instagramProfile": {
+          "label": "Business social profile on Instagram",
+          "placeholder": "Paste the profile's link URL here"
+        },
+        "continue": "Continue",
+        "creating": "Creating..."
+      },
+      "license": {
+        "title": "Select your business commercial license type",
+        "commercialRegister": "Commercial Register",
+        "freelanceLicense": "Freelance License",
+        "none": "None",
+        "selectedLicense": "Selected License Type",
+        "change": "Change"
+      },
+      "location": {
+        "title": "What's your location name",
+        "storeBranchName": "Store/Branch name",
+        "add": "Add",
+        "remove": "Remove",
+        "searchLocation": "search for a location",
+        "info": "At least add one location, you can modify it later or add more branches.",
+        "sellingOnline": {
+          "title": "Selling Online?",
+          "description": "Tick this box if you operate an online store and sell via your eCommerce website (e.g., Salla, Zid, etc) Doing so will add your website as a sales channel (branch)."
+        },
+        "continueToCreateProduct": "Continue to Create Product"
+      },
+      "validation": {
+        "required": "This field is required",
+        "invalidFormat": "Invalid format",
+        "minLength": "Minimum length is {min} characters",
+        "maxLength": "Maximum length is {max} characters"
+      },
+      "freelanceLicense": {
+        "commercial": {
+          "crNumber": {
+            "label": "Type your commercial register number",
+            "placeholder": "Type your CR number here"
+          },
+          "fullName": {
+            "label": "Type your official full name",
+            "placeholder": "Type your official name here",
+            "description": "As in the commercial register document & as the beneficiary name in your bank"
+          },
+          "issueDate": {
+            "label": "CR issue date",
+            "placeholder": "DD / MM / YYYY"
+          },
+          "expiryDate": {
+            "label": "CR expiry date",
+            "placeholder": "DD / MM / YYYY"
+          },
+          "website": {
+            "label": "Type your business website",
+            "placeholder": "www.example.com"
+          },
+          "document": {
+            "label": "Upload your commercial register document",
+            "optional": "(optional)"
+          }
+        },
+        "vat": {
+          "number": {
+            "label": "Business VAT number",
+            "placeholder": "Type your official name here",
+            "description": "As in the Commercial Register document"
+          },
+          "document": {
+            "label": "Upload your VAT document",
+            "description": "Only, for unvalidated data!"
+          }
+        },
+        "address": {
+          "international": {
+            "country": {
+              "label": "Country",
+              "placeholder": "Select a country..."
+            },
+            "addressLine1": {
+              "label": "Address Line 1",
+              "placeholder": "Street address, building number"
+            },
+            "addressLine2": {
+              "label": "Address Line 2",
+              "placeholder": "District name, office, unit, floor number"
+            },
+            "state": {
+              "label": "State",
+              "placeholder": "Province, region"
+            },
+            "city": {
+              "label": "City",
+              "placeholder": "Select a city...",
+              "selectCountryFirst": "Select a country first..."
+            },
+            "zipCode": {
+              "label": "ZIP Code",
+              "placeholder": "Postal code"
+            }
+          },
+          "saudi": {
+            "shortAddress": {
+              "label": "Short Address",
+              "placeholder": "e.g., RAGI2929"
+            },
+            "buildingNumber": {
+              "label": "Building Number",
+              "placeholder": "e.g., 2929"
+            },
+            "streetName": {
+              "label": "Street Name",
+              "placeholder": "e.g., Rayhanah Bi.."
+            },
+            "secondaryNumber": {
+              "label": "Secondary Number",
+              "placeholder": "e.g., 8118"
+            },
+            "districtName": {
+              "label": "District Name",
+              "placeholder": "e.g., Al Arid Dist."
+            },
+            "postalCode": {
+              "label": "Postal Code",
+              "placeholder": "e.g., 13337"
+            },
+            "city": {
+              "label": "City",
+              "placeholder": "Select a city..."
+            },
+            "document": {
+              "label": "Upload your official address document",
+              "description": "Only, for unvalidated data!"
+            }
+          }
+        },
+        "summary": {
+          "officialFullName": "OFFICIAL FULL NAME",
+          "crIssueDate": "CR ISSUE DATE",
+          "crExpiryDate": "CR EXPIRY DATE",
+          "nationalAddress": "NATIONAL ADDRESS",
+          "vatNumber": "VAT NUMBER",
+          "businessWebsite": "BUSINESS WEBSITE",
+          "cancel": "Cancel",
+          "save": "Save"
+        },
+        "fileUpload": {
+          "completed": "Completed",
+          "delete": "Delete"
+        }
+      },
+      "productComponent": {
+        "step1": {
+          "downloadTemplate": "Download Template",
+          "templateDescription": "Download the template and add your products then re-upload",
+          "productsCatalog": "Products Catalog",
+          "or": "OR",
+          "addManually": "Add Manually"
+        },
+        "fileUpload": {
+          "chooseFile": "Choose a file or drag & drop it here.",
+          "fileFormats": "csv, and excel formats, up to 50 MB.",
+          "browseCSV": "Browse CSV",
+          "browseFiles": "Browse files",
+          "imageFormats": "JPEG, PNG formats, up to 5 MB.",
+          "imageFormats2": "JPEG, PNG, up to 5 MB.",
+          "completed": "Completed",
+          "primary": "Primary",
+          "noImage": "No Image"
+        },
+        "productForm": {
+          "productName": {
+            "label": "Product Name",
+            "placeholder": "Type your product name here"
+          },
+          "productWeight": {
+            "label": "Product Weight (optional)",
+            "placeholder": "0.00"
+          },
+          "productCategory": {
+            "label": "Product Category",
+            "placeholder": "Select categories...",
+            "selectCategories": "Select Categories"
+          },
+          "productSellingPrice": {
+            "label": "Product Selling Price",
+            "placeholder": "0.00"
+          },
+          "productImages": {
+            "label": "Products Images"
+          }
+        },
+        "productGrid": {
+          "addProduct": "Add Product",
+          "productName": "Product Name",
+          "price": "Price"
+        },
+        "actions": {
+          "continue": "Continue"
+        }
+      },
+      "exploreRetailer": {
+        "loading": "Loading...",
+        "noRetailersFound": "No retailers found",
+        "retailerCategories": "RETAILER CATEGORIES",
+        "noCategoriesAvailable": "No categories available",
+        "digitalAppearance": "DIGITAL APPEARANCE",
+        "website": "Website",
+        "instagram": "Instagram",
+        "noDigitalPresence": "No digital presence",
+        "offeredAgreement": "OFFERED AGREEMENT",
+        "noSpaceRentalDetails": "No space rental details",
+        "paymentCycle": "PAYMENT CYCLE",
+        "supportedLocations": "SUPPORTED LOCATIONS",
+        "viewMoreDetails": "View More Details",
+        "enrollToday": "Enroll Today!",
+        "searchPlaceholder": "Search Retailers ...",
+        "confirmationModal": {
+          "title": "Confirm sending invitation",
+          "description": "Sending this agreements will be shared with retailers, need to wait for approval",
+          "cancel": "Cancel,",
+          "confirm": "Confirm"
+        }
+      },
+      "productDetails": {
+        "title": "Product Details",
+        "subheading": "View retailer's product details and update quantity",
+        "description": "Description",
+        "discard": "Discard",
+        "update": "Update",
+        "archive": "Archive",
+        "category": {
+          "title": "Category",
+          "description": "Product's category e.g. Electronics etc."
+        },
+        "price": {
+          "title": "Price",
+          "description": "Price of the product"
+        },
+        "sku": {
+          "title": "SKU Code",
+          "description": "Stock keeping unit of the product"
+        },
+        "weight": {
+          "title": "Weight",
+          "description": "Weight of the product"
+        },
+        "manufacturer": {
+          "title": "Manufacturer",
+          "description": "Manufacturer of the product"
+        },
+        "productStatus": {
+          "title": "Product Status",
+          "description": "Status of the product"
+        },
+        "sellingPrice": {
+          "title": "Selling Price",
+          "description": "Selling price of the product"
+        }
+      },
+      "orders": {
+        "title": "Orders",
+        "description": "Explore and review various retailers' agreements.",
+        "addNewOrder": "Add a new Order",
+        "searchPlaceholder": "Search by name",
+        "orderType": "Order Type",
+        "shippingType": "Shipping Type",
+        "filter": "Filter",
+        "clearFilter": "Clear Filter",
+        "myOrders": "My Orders",
+        "partnerOrders": "Partner Orders",
+        "loading": "Loading...",
+        "noOrdersFound": "No orders found",
+        "pageOf": "Page {currentPage} of {totalPages}",
+        "perPage": "{itemsPerPage} / page",
+        "orderTypes": {
+          "sample": "Sample",
+          "newStock": "New Stock",
+          "return": "Return",
+          "restock": "Restock"
+        },
+        "shippingTypes": {
+          "aramex": "Aramex",
+          "external": "External",
+          "pending": "Pending"
+        },
+        "tableHeaders": {
+          "orderNumber": "Order no.",
+          "requester": "Requester",
+          "receiver": "Receiver",
+          "dateTime": "Date & Time",
+          "products": "Products",
+          "price": "Price",
+          "orderType": "Order Type",
+          "shipping": "Shipping",
+          "status": "Status"
+        },
+        "tableData": {
+          "na": "N/A",
+          "view": "View"
+        },
+        "pagination": {
+          "first": "<<",
+          "previous": "<",
+          "next": ">",
+          "last": ">>",
+          "ellipsis": "..."
+        },
+        "itemsPerPage": {
+          "10": "10 / page",
+          "20": "20 / page",
+          "50": "50 / page"
+        },
+        "altText": {
+          "add": "Add",
+          "search": "Search",
+          "filter": "Filter",
+          "view": "View"
+        },
+        "placeholders": {
+          "searchByName": "Search by name",
+          "orderType": "Order Type",
+          "shippingType": "Shipping Type",
+          "itemsPerPage": "{itemsPerPage} / page"
+        },
+        "statuses": {
+          "pending": "Pending",
+          "draft": "Draft",
+          "submitted": "Submitted",
+          "send": "Send",
+          "accepted": "Accepted",
+          "expired": "Expired",
+          "inTransit": "In Transit",
+          "delivered": "Delivered",
+          "canceled": "Canceled",
+          "rejected": "Rejected",
+          "received": "Received"
+        },
+        "orderStatusBlock": {
+          "title": "Accepted Orders",
+          "altText": {
+            "information": "Information",
+            "dropdown": "Dropdown"
+          },
+          "filterOptions": {
+            "weekly": "Weekly",
+            "monthly": "Monthly",
+            "fortnight": "Fortnight"
+          },
+          "comparisonText": "vs last {filter}",
+          "dateRange": {
+            "from": "From",
+            "to": "To",
+            "na": "N/A"
+          },
+          "loading": "Loading...",
+          "noDataAvailable": "No data available",
+          "noStatusDataAvailable": "No status data available",
+          "statusLabels": {
+            "pending": "Pending",
+            "draft": "Draft",
+            "submitted": "Submitted",
+            "send": "Send",
+            "accepted": "Accepted",
+            "expired": "Expired",
+            "inTransit": "In Transit",
+            "delivered": "Delivered",
+            "canceled": "Canceled",
+            "received": "Received",
+            "rejected": "Rejected"
+          }
+        },
+        "statsAndChartRow": {
+          "totalOrders": "Total Orders",
+          "thisWeek": "this week",
+          "contractedPartners": "Contracted Partners",
+          "ofTotal": "of total",
+          "altText": {
+            "lineChart": "Line Chart",
+            "markerDot": "Marker Dot"
+          },
+          "chartLabel": "Monday, 6h"
+        },
+        "statusBannerSelector": {
+          "errorMessages": {
+            "rejectionNoteRequired": "Rejection note is required"
+          },
+          "partnerOrders": {
+            "pendingMessage": "A request has been received. Please review the request.",
+            "approve": "Approve",
+            "reject": "Reject"
+          },
+          "myOrders": {
+            "canceledMessage": "You can resend the request. Would you like to resend it?",
+            "resendOrder": "Resend Order",
+            "pendingMessage": "You are now waiting for the brand's approval. Do you want to cancel the order?",
+            "cancel": "Cancel",
+            "acceptedMessage": "Your request has been approved. You can now start the shipping process.",
+            "shipNow": "SHIP NOW!"
+          },
+          "altText": {
+            "alert": "alert"
+          }
+        },
+        "orderDetailsPage": {
+          "title": "Order Details",
+          "description": "View and manage order information",
+          "tabs": {
+            "orderDetails": "Order details",
+            "productDetails": "Product details",
+            "shippingDetails": "Shipping details"
+          },
+          "loading": "Loading order details...",
+          "error": "Error loading order details: {error}",
+          "notFound": "Order not found"
+        },
+        "orderDetailsSection": {
+          "errorMessages": {
+            "rejectionNoteRequired": "Rejection note is required"
+          },
+          "labels": {
+            "brandName": "Brand Name",
+            "brandNameDescription": "Name of the brand",
+            "branchName": "Branch name",
+            "branchNameDescription": "Branch location",
+            "address": "Address",
+            "addressDescription": "Address location",
+            "shippingOwner": "Shipping Owner:",
+            "shippingOwnerDescription": "Name of the shipping owner",
+            "shippingMethod": "Shipping method:",
+            "shippingMethodDescription": "Shipping method",
+            "poExpirationDate": "PO Expiration Date",
+            "poExpirationDateDescription": "Date of the PO expiration",
+            "orderAdditionalDetails": "Order Additional Details",
+            "orderAdditionalDetailsDescription": "Additional details of the purchase order",
+            "uploadedAttachments": "Uploaded attachments:",
+            "uploadedAttachmentsDescription": "Attachments of the purchase order"
+          },
+          "altText": {
+            "logo": "logo",
+            "dummyLogo": "dummy logo",
+            "pdf": "PDF"
+          },
+          "fileInfo": {
+            "attachment": "Attachment",
+            "fileUploaded": "File uploaded",
+            "view": "View"
+          },
+          "tableData": {
+            "na": "N/A"
+          }
+        },
+        "orderTracking": {
+          "labels": {
+            "orderStatus": "Order Status",
+            "orderNumber": "Order Number",
+            "orderType": "Order Type",
+            "transactions": "Transactions"
+          },
+          "activity": {
+            "newActivityTotally": "{count} new activity totally",
+            "shipNow": "SHIP NOW"
+          },
+          "altText": {
+            "status": "status",
+            "orderType": "Order Type",
+            "arrow": "arrow"
+          },
+          "statusLabels": {
+            "submitted": "Submitted",
+            "canceled": "Canceled",
+            "pending": "Pending",
+            "accepted": "Accepted",
+            "delivered": "Delivered",
+            "rejected": "Rejected"
+          }
+        },
+        "productDetailsSection": {
+          "errorMessages": {
+            "rejectionNoteRequired": "Rejection note is required"
+          },
+          "labels": {
+            "sentOrderValue": "Sent Order's Value",
+            "sentOrderValueDescription": "Description texts only",
+            "approvedOrderValue": "Approved Order's Value",
+            "approvedOrderValueDescription": "Description texts only",
+            "acceptedProducts": "Accepted Products",
+            "acceptedProductsDescription": "Description texts only"
+          },
+          "metrics": {
+            "productsInTotal": "Products in total",
+            "piecesInTotal": "Pieces in total",
+            "asValue": "As value"
+          },
+          "actions": {
+            "downloadAllProducts": "Download all products file",
+            "downloadAcceptedProducts": "Download accepted products file",
+            "loadMore": "Load More",
+            "showLess": "Show Less"
+          },
+          "viewToggles": {
+            "allProducts": "All Products",
+            "acceptedProducts": "Accepted Products"
+          },
+          "states": {
+            "loadingProducts": "Loading products...",
+            "noProductsFound": "No products found",
+            "noAcceptedProductsFound": "No accepted products found"
+          },
+          "altText": {
+            "products": "Products",
+            "pieces": "Pieces",
+            "value": "Value",
+            "more": "More"
+          }
+        }
+      }
+    },
+    "vendor": {
+      
+      "description":"description",
+      "validated":" Validated",
+      "crIsValid":" Commercial register number is valid!",
+      "sidebar": {
+        "step1": "Step 1/3",
+        "step2": "Step 2/3",
+        "step3": "Step 3/3",
+        "completeBusinessProfile": "Complete Business Profile",
+        "createFirstAgreement": "Create 1st agreement",
+        "exploreBrands": "Explore Brands and Send 1st agreement",
+        "saveForLater": "Save for later",
+        "copyright": "© 2025 Raff"
+      },
+      "preview": {
+        "title": "Preview",
+        "subtitle": "This is how your business will appear.",
+        "businessImage": "Business Image",
+        "imageSize": "400x400px",
+        "countryCity": "Country, City",
+        "businessNamePlaceholder": "Here's The Business Trading Name",
+        "paymentCycle": "PAYMENT CYCLE",
+        "salesCommission": "SALES COMMISSION",
+        "locations": "LOCATIONS"
+      },
+      "form": {
+        "backToPage": "< Back to page",
+        "completeBusinessDetails": "Complete Business details",
+        "boostSales": "Boost sales with detailed business information",
+        "createFirstAgreement": "Create 1st Agreement",
+        "createFirstAgreementSubtitle": "Create your first agreement with us.",
+        "exploreBrands": "Explore Brands",
+        "exploreBrandsSubtitle": "Explore brands and start selling with us.",
+        "search": "Search Brands ...",
+        "logoUpload": {
+          "title": "Upload Business Logo",
+          "description": "Min 400x400px, PNG or JPEG",
+          "upload": "Upload",
+          "remove": "Remove",
+          "change": "Change"
+        },
+        "businessTradeName": {
+          "label": "Business trade name",
+          "placeholder": "Type your brand name here"
+        },
+        "businessCategory": {
+          "label": "Business category",
+          "placeholder": "Select categories...",
+          "selectCategories": "Select Categories",
+          "loadingCategories": "Loading categories...",
+          "noCategoriesAvailable": "No categories available"
+        },
+        "businessCountry": {
+          "label": "Business Country \"Location\"",
+          "placeholder": "Select a country..."
+        },
+        "businessCity": {
+          "label": "Business City",
+          "placeholder": "Select a city...",
+          "selectCountryFirst": "Select a country first..."
+        },
+        "instagramProfile": {
+          "label": "Business social profile on Instagram",
+          "placeholder": "Paste the profile's link URL here",
+          "hint": "This link will appear to other businesses"
+        },
+        "commercial": {
+          "label": "Type your commercial register number",
+          "description": "Enter commercial register number",
+          "fullName": "Type your offical full name",
+          "crIssueDate": "CR ISSUE DATE",
+          "crExpiryDate": "CR EXPIRY DATE",
+          "website": "Type your business website",
+          "document": "Upload your commercial register document",
+          "register": "As in the commercial register document & as the beneficiary name in your bank",
+          "vat": "Business VAT number",
+          "uploadVat": "Upload your VAT document",
+          "vatdes": "As in the Commercial Register document",
+          "vatdesun": "Only, for unvalidated data!",
+          "commercialPlaceholder": "Type your CR number here",
+          "fullNamePlaceholder": "Type your official name here",
+          "issueDatePlaceholder": "DD / MM / YYYY",
+          "expiryDatePlaceholder": "DD / MM / YYYY",
+          "websitePlaceholder": "www.example.com",
+          "vatNumberPlaceholder": "Type your VAT number here"
+        },
+        "continue": "Continue",
+        "creating": "Creating...",
+        "start": "Start Date",
+        "end": "End Date",
+        "next": "Next",
+        "createContinue": "Continue to Create Agreement"
+      },
+      "location": {
+        "title": "What's your location name",
+        "storeBranchName": "Store/Branch name",
+        "add": "Add",
+        "remove": "Remove",
+        "searchLocation": "search for a location",
+        "info": "At least add one location, you can modify it later or add more branches.",
+        "mainWarehouse": "Main Warehouse",
+        "shippingBranch": "Shipping to this branch?",
+        "sellingOnline": {
+          "title": "Selling Online?",
+          "description": "Tick this box if you operate an online store and sell via your eCommerce website (e.g., Salla, Zid, etc) Doing so will add your website as a sales channel (branch)."
+        },
+        "continueToCreateProduct": "Continue to Create Product"
+      },
+      "agreement": {
+        "start": "Select the start date for your agreement",
+        "end": "Select the end date for your agreement",
+        "image": "Agreement Image",
+        "acceptedCategories": "Accepted categories",
+        "agreementName": {
+          "label": "Agreement name",
+          "placeholder": "Type your agreement name here, displayed to all"
+        },
+        "uploadTerms": {
+          "label": "Upload your agreement's custom terms document",
+          "pdf": "(PDF)"
+        },
+        "paymentCycle": {
+          "label": "Payment cycle",
+          "placeholder": "Select a duration from the list",
+          "hint": "How often do you commit to making payments to the brands and suppliers involved in this agreement?"
+        },
+        "supportedBranches": {
+          "label": "Supported branches and locations"
+        },
+        "agreementType": {
+          "label": "Select your Agreement Type",
+          "agreementtype": "AGREEMENT TYPE",
+          "consignment": "Consignment",
+          "spaceRental": "Space Rental"
+        },
+        "consignmentFees": {
+          "label": "Sales commission and consignment fees",
+          "placeholder": "10.00",
+          "percentage": "Percentage %",
+          "amount": "Amount $",
+          "hint": "The commission fees will be subtracted from the total sales amount after they occur."
+        },
+        "spaceFees": {
+          "label": "Sales commission and space fees",
+          "required": "(required)",
+          "hint": "The commission fees will be added to the total sales amount before they occur.",
+          "spaceName": {
+            "placeholder": "Space name"
+          },
+          "paymentTerm": {
+            "placeholder": "Payment Term"
+          },
+          "amount": {
+            "placeholder": "2,500"
+          }
+        },
+        "continue": "Continue",
+        "continueToCreateAgreement": "Continue to Create 1st Agreement"
+      },
+      "address": {
+        "international": {
+          "country": {
+            "label": "Country",
+            "placeholder": "Select a country..."
+          },
+          "addressLine1": {
+            "label": "Address Line 1",
+            "placeholder": "Street address, building number"
+          },
+          "addressLine2": {
+            "label": "Address Line 2",
+            "placeholder": "District name, office, unit, floor number"
+          },
+          "state": {
+            "label": "State",
+            "placeholder": "Province, region"
+          },
+          "city": {
+            "label": "City",
+            "placeholder": "Select a city...",
+            "selectCountryFirst": "Select a country first..."
+          },
+          "zipCode": {
+            "label": "ZIP Code",
+            "placeholder": "Postal code"
+          }
+        },
+        "saudi": {
+          "shortAddress": {
+            "label": "Short Address",
+            "placeholder": "e.g., RAGI2929"
+          },
+          "buildingNumber": {
+            "label": "Building Number",
+            "placeholder": "e.g., 2929"
+          },
+          "streetName": {
+            "label": "Street Name",
+            "placeholder": "e.g., Rayhanah Bi.."
+          },
+          "secondaryNumber": {
+            "label": "Secondary Number",
+            "placeholder": "e.g., 8118"
+          },
+          "districtName": {
+            "label": "District Name",
+            "placeholder": "e.g., Al Arid Dist."
+          },
+          "postalCode": {
+            "label": "Postal Code",
+            "placeholder": "e.g., 13337"
+          },
+          "city": {
+            "label": "City",
+            "placeholder": "Select a city..."
+          },
+          "document": {
+            "label": "Upload your official address document",
+            "description": "Only, for unvalidated data!"
+          }
+        }
+      },
+      "summary": {
+        "officialFullName": "OFFICIAL FULL NAME",
+        "crIssueDate": "CR ISSUE DATE",
+        "crExpiryDate": "CR EXPIRY DATE",
+        "nationalAddress": "NATIONAL ADDRESS",
+        "vatNumber": "VAT NUMBER",
+        "businessWebsite": "BUSINESS WEBSITE",
+        "agreementName": "AGREEMENT NAME",
+        "agreementFile": "AGREEMENT FILE",
+        "paymentCycle": "PAYMENT CYCLE",
+        "select": "Select",
+        "weekly": "Weekly",
+        "biWeekly": "Bi Weekly",
+        "monthly": "Monthly",
+        "quarterly": "Quarterly",
+        "yearly": "Yearly",
+        "anually":"Annually",
+        "once": "Once at the beginning of the agreement",
+        "cancel": "Cancel",
+        "save": "Save"
+      },
+      "fileUpload": {
+        "chooseFile": "Choose a file or drag & drop it here.",
+        "format": "png, and jpeg formats, up to 10 MB",
+        "noUpload": "No file uploaded",
+        "browse": "Browse File",
+        "completed": "Completed",
+        "delete": "Delete",
+        "kbOf": "KB of",
+        "kb": "KB"
+      },
+      "paymentCycles": {
+        "monthly": "Monthly",
+        "quarterly": "Quarterly",
+        "yearly": "Yearly"
+      },
+      "alt": {
+        "raffLogo": "Raff Logo",
+        "briefcase": "Briefcase",
+        "businessLogo": "Business Logo",
+        "priceTag": "Price Tag",
+        "selected": "Selected",
+        "store": "Store",
+        "search": "Search",
+        "map": "Map",
+        "info": "Info",
+        "cart": "Cart",
+        "agreement": "Agreement",
+        "paymentCycle": "Payment Cycle",
+        "salesCommission": "Sales Commission",
+        "locations": "Locations",
+        "location": "Location",
+        "branch": "Branch",
+        "close": "Close",
+        "add": "Add",
+        "delete": "Delete",
+        "pdf": "PDF",
+        "space": "Space",
+        "paymentTerm": "Payment Term",
+        "agreementName": "Agreement Name",
+        "edit": "edit"
+      },
+      "confirmationModal": {
+        "title": "Confirm sending invitation",
+        "description": "Sending this agreements will be shared with retailers, need to wait for approval",
+        "cancel": "Cancel,",
+        "confirm": "Confirm",
+        "loading": "Loading...",
+        "agreementRequested": "Agreement requested successfully",
+        "failRequest": "Failed to request agreement"
+      },      
+  "status": {
+    "update": {
+      "success": "Vendor updated successfully!",
+      "error": "Failed to update vendor"
+    },
+    "create": {
+      "success": "Vendor created successfully!",
+      "error": "Failed to create vendor"
+    },
+    "agreement": {
+      "create": {
+        "success": "Agreement created successfully!",
+        "error": "Failed to create agreement"
+      },
+      "update": {
+        "success": "Agreement updated successfully!",
+        "error": "Failed to update agreement"
+      },
+      "request": {
+        "success": "Agreement requested successfully",
+        "error": "Failed to request agreement"
+      }
+    },
+    "branch": {
+      "delete": {
+        "success": "Branch deleted successfully!",
+        "error": "Failed to delete branch"
+      },
+      "update": {
+        "success": "Branch updated successfully!",
+        "error": "Failed to update branch"
+      }
+    },
+    "retailerAgreements": {
+      "fetch": {
+        "success": "Retailer agreements fetched successfully",
+        "error": "Failed to fetch retailer agreements"
+      }
+    },
+    "exploreRetailers": {
+      "fetch": {
+        "error": "Failed to fetch explore retailers"
+      }
+    }
+  },
+  "agreementModal": {
+    "steps": {
+      "agreementDetails": "Agreement's Details",
+      "additionalInfo": "Additional Info", 
+      "gallery": "Gallery",
+      "confirmation": "Confirmation"
+    },
+    "buttons": {
+      "back": "Back",
+      "continue": "Continue",
+      "close": "Close"
+    },
+    "titles": {
+      "agreementDetails": "Agreement's Details",
+      "viewAgreementDetails": "View Agreement's Details"
+    },
+    "subtitles": {
+      "provideInfo": "Provide essential information to proceed."
+    },
+    "accessibility": {
+      "close": "Close"
+    }
+  },
+  
+  "agreementStep1": {
+    "labels": {
+      "agreementName": "Agreement name",
+      "agreementDescription": "Agreement description",
+      "agreementTermsText": "Agreement Terms Text",
+      "acceptedCategories": "Accepted categories",
+      "agreementType": "Select your Agreement Type",
+      "salesCommission": "Sales commission and consignment fees",
+      "spaceFees": "Sales commission and space fees",
+      "salePaymentCycle": "Sale payment cycle",
+      "agreementVisibility": "Agreement visibility",
+      "setupFees": "Setup fees",
+      "supportedBranches": "Supported branches and locations"
+    },
+    "placeholders": {
+      "agreementName": "Type your agreement name here, displayed to all suppliers",
+      "agreementDescription": "Type your agreement description here",
+      "agreementTermsText": "Type your agreement description here",
+      "selectCategories": "Select categories...",
+      "spaceName": "Space name",
+      "selectPaymentCycle": "Select a duration from the list",
+      "selectVisibility": "Select an option from the list",
+      "setupFeeAmount": "0.00",
+      "selectBranches": "Select branches..."
+    },
+    "options": {
+      "agreementTypes": {
+        "consignment": "Consignment",
+        "spaceRental": "Space Rental"
+      },
+      "paymentCycles": {
+        "weekly": "Weekly",
+        "biWeekly": "Bi-Weekly",
+        "monthly": "Monthly",
+        "quarterly": "Quarterly",
+        "annually": "Annually",
+        "onceAtEnd": "Once, at the end of the agreement"
+      },
+      "visibility": {
+        "public": "Public",
+        "private": "Private",
+        "exclusive": "Exclusive"
+      },
+      "paymentTerms": {
+        "select": "Payment Term",
+        "monthly": "Monthly",
+        "quarterly": "Quarterly",
+        "annually": "Annually",
+        "endOfAgreement": "Once at the end of the agreement",
+        "beginningOfAgreement": "Once at the beginning of the agreement"
+      }
+    },
+    "fileUpload": {
+      "customTerms": "Upload your agreement's custom terms document",
+      "optional": "(optional)",
+      "agreementDocument": "Agreement Document",
+      "document": "Document",
+      "completed": "Completed",
+      "delete": "Delete"
+    },
+    "validation": {
+      "agreementNameEmpty": "Agreement name cannot be empty or contain only spaces",
+      "commissionNegative": "Commission fee cannot be negative",
+      "spacePriceNegative": "Space rental price cannot be negative"
+    },
+    "info": {
+      "commissionSubtracted": "The commission fees will be subtracted from the total sales amount after they occur.",
+      "commissionAdded": "The commission fees will be added to the total sales amount before they occur.",
+      "paymentCycleHint": "How often do you commit to making payments to the brands and suppliers involved in this agreement?",
+      "visibilityHint": "Choose the method for brands and suppliers to view this agreement.",
+      "setupFeesHint": "Leave it blank if you don't have any agreement setup fees."
+    },
+    "units": {
+      "percentage": "Percentage %",
+      "kb": "KB",
+      "kbOf": "KB of"
+    }
+  },
+  
+  "agreementStep2": {
+    "labels": {
+      "startDate": "Start date",
+      "endDate": "End date",
+      "autoRenewalPeriod": "Auto-renewal period",
+      "admissionPeriod": "Admission period",
+      "seasonalAgreement": "Seasonal Agreement?"
+    },
+    "placeholders": {
+      "dateFormat": "DD / MM / YYYY",
+      "selectPeriod": "Select a period from the list"
+    },
+    "options": {
+      "autoRenewal": {
+        "yes": "Yes",
+        "no": "No"
+      },
+      "admissionPeriod": {
+        "7days": "7 days",
+        "14days": "14 days",
+        "30days": "30 days",
+        "60days": "60 days"
+      }
+    },
+    "validation": {
+      "startDateError": "Please select a valid start date from today to 5 years from now",
+      "endDateError": "Please select a valid end date from today to 5 years from now",
+      "dateRangeError": "End date must be after the start date"
+    },
+    "info": {
+      "autoRenewalHint": "Select to allow auto-renewal of participant brands and suppliers' agreements with your business.",
+      "admissionPeriodHint": "Allow a pre-agreement admission period for participant brands and suppliers to send products.",
+      "seasonalAgreementHint": "Want to add a seasonal-tag to this agreement?"
+    },
+    "accessibility": {
+      "calendar": "calendar",
+      "info": "info"
+    }
+  },
+  "agreementStep3": {
+    "labels": {
+      "agreementImages": "Agreement Images"
+    },
+    "placeholders": {
+      "dragDropText": "Choose a file or drag & drop it here.",
+      "fileFormatHint": "PNG and JPEG formats only, up to 5 MB."
+    },
+    "buttons": {
+      "browseFiles": "Browse files"
+    },
+    "validation": {
+      "invalidFileType": "File \"{fileName}\" is not a valid image type. Please upload PNG or JPEG files only.",
+      "fileTooLarge": "File \"{fileName}\" is too large. Please upload files smaller than 5MB."
+    },
+    "accessibility": {
+      "info": "info",
+      "agreementImage": "Agreement Image {index}",
+      "removeImage": "Remove image",
+      "primaryBadge": "Primary"
+    },
+    "fallbacks": {
+      "uploadedImage": "Uploaded image",
+      "imageNumber": "Image {index}"
+    }
+  },
+  "agreementStep4": {
+    "fallbacks": {
+      "agreementName": "Agreement Name"
+    },
+    "labels": {
+      "offeredAgreement": "Offered Agreement",
+      "supportedLocations": "Supported Locations",
+      "paymentCycle": "Payment Cycle",
+      "agreementVisibility": "Agreement Visibility"
+    },
+    "accessibility": {
+      "agreement": "Agreement",
+      "icon": "icon",
+      "offer": "offer",
+      "locations": "locations",
+      "cycle": "cycle",
+      "visibility": "visibility"
+    },
+    "formatting": {
+      "feesText": "{amount} {currency} As Fees",
+      "branchText": "{count} Branch",
+      "branchesText": "{count} Branches"
+    }
+  }
+
+
+    }
+  },
+  "shippingList": {
+    "statusLabels": {
+      "inTransit": "In Transit",
+      "pending": "Pending",
+      "delivered": "Delivered"
+    },
+    "shippingMethods": {
+      "aramex": "Aramex",
+      "external": "External",
+      "pending": "Pending"
+    },
+    "tableHeaders": {
+      "orderNumber": "Order no.",
+      "dateTime": "Date & Time",
+      "price": "Price",
+      "products": "Products",
+      "totalWeight": "Total Weight",
+      "shippingMethod": "Shipping Method",
+      "status": "Status"
+    },
+    "tableData": {
+      "loading": "Loading...",
+      "noRecordsFound": "No shipping records found.",
+      "na": "N/A",
+      "sar": "SAR",
+      "kg": "KG"
+    },
+    "altText": {
+      "inTransit": "In Transit",
+      "pending": "Pending",
+      "delivered": "Delivered",
+      "aramex": "Aramex",
+      "external": "External",
+      "view": "View",
+      "truck": "Truck",
+      "print": "Print"
+    },
+    "pagination": {
+      "first": "«",
+      "previous": "‹",
+      "next": "›",
+      "last": "»",
+      "ellipsis": "..."
+    }
+  },
+  "sales": {
+    "title": "Sales",
+    "description": "Sales reports and statistics",
+    "reportBio": {
+      "title": "Sales Report Overview",
+      "reportNo": "Report No.",
+      "dateTime": "Date & Time",
+      "reportName": "Report Name",
+      "retailerName": "Retailer Name",
+      "uploadBy": "Uploaded By",
+      "decisionBy": "Decision By",
+      "decisionOn": "Decision On"
+    },
+    "actions": {
+      "downloadReport": "Download Report",
+      "approveReport": "Approve Report",
+      "more": "More",
+      "view": "View",
+      "download": "Download",
+      "approve": "Approve",
+      "reject": "Reject",
+      "info": "Information",
+      "takeAction": "Take Action"
+    },
+    "breadcrumb": {
+      "sales": "Sales",
+      "report": "Report {reportId}"
+    },
+    "tabs": {
+      "reportDetails": "Report Details",
+      "brandSupplierPayment": "Brand/Supplier Payment",
+      "brandSupplierNoSales": "Brand/Supplier No Sales",
+      "activitiesComments": "Activities & Comments"
+    },
+    "search": {
+      "alt": "Search",
+      "placeholder": "Search..."
+    },
+    "filter": {
+      "alt": "Filter",
+      "title": "Filter"
+    },
+    "table": {
+      "no": "No.",
+      "brandName": "Brand Name",
+      "productName": "Product Name",
+      "skuCode": "SKU Code",
+      "soldQuantity": "Sold Quantity",
+      "unitSellingPrice": "Unit Selling Price",
+      "subTotal": "Sub Total",
+      "branchName": "Branch Name",
+      "city": "City",
+      "quantity": "Quantity",
+      "totalSales": "Total Sales",
+      "totalAmountDue": "Total Amount Due",
+      "reportName": "Report Name",
+      "dateTime": "Date & Time",
+      "brands": "Brands",
+      "soldProducts": "Sold Products",
+      "revenue": "Revenue",
+      "raffAmount": "Raff Amount",
+      "unitPrice": "Unit Price",
+      "netSales": "Net Sales",
+      "headers": {
+        "no": "No.",
+        "reportName": "Report Name",
+        "dateTime": "Date & Time",
+        "retailer": "Retailer",
+        "soldProducts": "Sold Products",
+        "totalSales": "Total Sales",
+        "netSales": "Net Sales"
+      },
+      "searchPlaceholder": "Search...",
+      "filter": "Filter"
+    },
+    "pagination": {
+      "page": "Page {current} of {total}",
+      "itemsPerPage": "{count} items per page",
+      "first": "First",
+      "previous": "Previous",
+      "next": "Next",
+      "last": "Last"
+    },
+    "showAllActivity": "Show All Activity",
+    "reply": "Reply",
+    "status": {
+      "pending": "Pending",
+      "rejected": "Rejected",
+      "published": "Published",
+      "processing": "Processing",
+      "error": "Error",
+      "onhold": "On Hold"
+    },
+    "upload": {
+      "newReport": "New Report",
+      "alt": "Upload"
+    },
+    "branches": {
+      "review": "Review Branches",
+      "alt": "Branches"
+    },
+    "template": {
+      "title": "Download Template",
+      "download": "Download",
+      "alt": "Template"
+    },
+    "widgets": {
+      "activeProducts": {
+        "title": "Active Products",
+        "soldProducts": "Sold Products",
+        "totalProducts": "Total Products",
+        "alt": {
+          "activeProducts": "Active Products Icon"
+        }
+      },
+      "activeRetailers": {
+        "title": "Active Retailers",
+        "sales": "{count} Sales",
+        "products": "{count} Products",
+        "viewDetails": "View Details",
+        "viewAll": "View All",
+        "alt": {
+          "retailers": "Retailers Icon",
+          "retailer": "{name} Retailer"
+        }
+      }
+    },
+    "activeProducts": {
+      "percentage": "{percentage}% increase from last month"
+    },
+    "payableVAT": {
+      "title": "Payable VAT",
+      "description": "The VAT amount in this report is {amount}",
+      "disclaimer": "This amount must be paid and reported to ZATCA by {businessName}",
+      "alt": {
+        "vat": "VAT Icon"
+      },
+      "amount": "SAR {amount}",
+      "percentage": "{value}% of total sales"
+    },
+    "totalSales": {
+      "title": "Total Sales",
+      "asTotalSales": "As Total Sales",
+      "salesCommission": "Sales Commission",
+      "netRevenue": "Your Net Revenue",
+      "alt": {
+        "totalSales": "Total Sales Icon"
+      },
+      "totalSales": "Total Sales Amount",
+      "totalProducts": "Total Products Sold",
+      "totalRetailers": "Total Retailers"
+    },
+    "moreAnalytics": {
+      "title": "More Analytics Coming Soon",
+      "description": "Stay tuned for more insights and analytics features",
+      "alt": {
+        "analytics": "Analytics Icon"
+      }
+    },
+    "activitiesChart": {
+      "title": "Sales Activities",
+      "legend": {
+        "sales": "Sales",
+        "products": "Products"
+      }
+    },
+    "modals": {
+      "template": {
+        "title": "Download Template",
+        "description": "Download the sales report template to fill in your data",
+        "validationRules": "Validation Rules",
+        "rules": {
+          "location": "Location",
+          "transactionNumber": "Transaction Number",
+          "transactionDate": "Transaction Date",
+          "productCode": "Product Code",
+          "quantity": "Quantity",
+          "sellingPrice": "Selling Price",
+          "tax": "Tax"
+        }
+      },
+      "upload": {
+        "title": "Upload Sales Report",
+        "description": "Upload your sales report to track your sales and revenue",
+        "form": {
+          "reportName": {
+            "label": "Report Name",
+            "placeholder": "Enter report name"
+          },
+          "uploadReport": {
+            "label": "Upload Report",
+            "chooseFile": "Choose a file or drag & drop it here",
+            "fileTypes": "JPEG, PNG, PDF, and MP4 formats, up to 50 MB",
+            "remove": "Remove"
+          },
+          "autoUnapprove": "Previous reports will be automatically unapproved when a new report is uploaded"
+        },
+        "buttons": {
+          "cancel": "Cancel",
+          "confirm": "Upload Report"
+        }
+      },
+      "branches": {
+        "title": "Review Branches",
+        "description": "Review and manage your business branches",
+        "table": {
+          "id": "ID",
+          "branch": "Branch",
+          "city": "City",
+          "status": "Status"
+        },
+        "status": {
+          "active": "Active",
+          "inactive": "Inactive"
+        }
+      },
+      "approve": {
+        "title": "Approve Report",
+        "description": "Are you sure you want to approve this sales report?",
+        "buttons": {
+          "cancel": "Cancel",
+          "confirm": "Approve"
+        }
+      },
+      "reject": {
+        "title": "Reject Report",
+        "description": "Are you sure you want to reject this sales report?",
+        "buttons": {
+          "cancel": "Cancel",
+          "confirm": "Reject"
+        }
+      },
+      "duplicateAgreement": {
+        "title": "Duplicate Agreement",
+        "description": "Found {count} similar agreements. Please select one to duplicate:",
+        "agreements": {
+          "title": "Similar Agreements",
+          "items": {
+            "name": "Agreement {id}",
+            "date": "Created on {id}"
+          }
+        },
+        "buttons": {
+          "close": "Close"
+        }
+      }
+    },
+    "activeRetailers": {
+      "title": "Active Retailers",
+      "sales": "{count} Sales",
+      "products": "{count} Products",
+      "viewDetails": "View Details",
+      "viewAll": "View All",
+      "alt": {
+        "retailers": "Retailers Icon",
+        "retailer": "{name} Retailer"
+      }
+    }
+  },
+  "orders": {
+    "title": "Orders",
+    "description": "Manage your orders",
+    "addOrder": "Add Order",
+    "createOrder": {
+      "orderDetails": "Order Details",
+      "selectProducts": "Select Products",
+      "review": "Review",
+      "stepSubtitle": "Fill in the required information to proceed",
+      "steps": {
+        "orderDetails": "Order Details",
+        "selectProducts": "Select Products",
+        "review": "Review",
+        "confirmation": "Confirmation"
+      },
+      "orderDetails": {
+        "title": "Order Details",
+        "subtitle": "Fill in the required information to proceed",
+        "brand": {
+          "label": "Brand",
+          "placeholder": "Select brand"
+        },
+        "branch": {
+          "label": "Branch",
+          "placeholder": "Select branch"
+        },
+        "coverShipping": "Cover shipping costs",
+        "details": {
+          "label": "Additional Details",
+          "placeholder": "Enter any additional details about your order...",
+          "charCount": "{current}/{max} characters"
+        },
+        "upload": {
+          "label": "Upload Attachment",
+          "clickToUpload": "Click to upload",
+          "maxSize": "Max file size: {size}MB",
+          "fileInfo": "{size}KB of {maxSize}KB • {status}",
+          "uploading": "Uploading...",
+          "uploaded": "Uploaded"
+        },
+        "saveForLater": "Save for later"
+      },
+      "productCard": {
+        "quantity": "Quantity",
+        "alt": {
+          "edit": "Edit quantity"
+        }
+      },
+      "quantityModal": {
+        "title": "Edit Quantity",
+        "actions": {
+          "cancel": "Cancel",
+          "save": "Save"
+        }
+      },
+      "successModal": {
+        "title": "Order Created Successfully",
+        "message": "Your order has been created and is now pending approval.",
+        "actions": {
+          "viewDetails": "View Order Details"
+        },
+        "alt": {
+          "success": "Success icon"
+        }
+      },
+      "actions": {
+        "cancel": "Cancel",
+        "back": "Back",
+        "continue": "Continue",
+        "finish": "Finish"
+      },
+      "alt": {
+        "info": "Information",
+        "file": "File",
+        "save": "Save"
+      }
+    },
+    "orderTypes": {
+      "sample": "Sample",
+      "newStock": "New Stock",
+      "return": "Return",
+      "restock": "Restock"
+    },
+    "retailers": {
+      "aramex": "Aramex",
+      "external": "External"
+    },
+    "stats": {
+      "totalOrders": "Total Orders",
+      "weeklyChange": "+{count} this week",
+      "contractedRetailers": "Contracted Retailers",
+      "percentageChange": "+{percentage}% of total",
+      "chartTooltip": "{day}, {time}"
+    },
+    "orderStatus": {
+      "title": "Order Status",
+      "weekly": "Weekly",
+      "weeklyChange": "+{percentage}% vs last week",
+      "dateRange": {
+        "start": "From {date}",
+        "end": "To {date}"
+      },
+      "submitted": "Submitted",
+      "delivered": "Delivered",
+      "shipping": "Shipping",
+      "approved": "Approved",
+      "underReview": "Under Review",
+      "rejected": "Rejected"
+    },
+    "search": {
+      "placeholder": "Search orders...",
+      "orderType": "Order Type",
+      "retailerName": "Retailer Name",
+      "filter": "Filter"
+    },
+    "table": {
+      "orderNo": "Order No.",
+      "requester": "Requester",
+      "receiver": "Receiver",
+      "dateTime": "Date & Time",
+      "products": "Products",
+      "price": "Price",
+      "productsType": "Products Type",
+      "shipping": "Shipping",
+      "status": "Status",
+      "actions": "Actions",
+      "viewDetails": "View Details"
+    },
+    "pagination": {
+      "pageInfo": "Page {current} of {total}",
+      "first": "First page",
+      "previous": "Previous page",
+      "next": "Next page",
+      "itemsPerPage": "{count} per page"
+    },
+    "alt": {
+      "add": "Add order",
+      "search": "Search",
+      "filter": "Filter",
+      "view": "View details",
+      "info": "Information",
+      "dropdown": "Toggle dropdown",
+      "selected": "Selected",
+      "chart": "Orders chart",
+      "marker": "Chart marker",
+      "cancel": "Cancel"
+    },
+    "status": {
+      "pending": "Pending",
+      "submitted": "Submitted",
+      "accepted": "Accepted",
+      "delivered": "Delivered",
+      "expired": "Expired",
+      "inTransit": "In Transit",
+      "draft": "Draft",
+      "cancelled": "Cancelled",
+      "approved": "Approved",
+      "rejected": "Rejected",
+      "orderSent": "Order Sent",
+      "orderCreated": "Order Created",
+      "underProcessing": "Under Processing"
+    },
+    "shipping": {
+      "aramex": "Aramex",
+      "external": "External",
+      "pending": "Pending",
+      "normal": "Normal",
+      "samples": "Samples",
+      "returns": "Returns",
+      "restock": "Restock",
+      "normalShip": "Normal Ship"
+    },
+    "infoBar": {
+      "message": "Order {orderNo} • {requester} → {receiver} • {date} • {products} products • {price} SAR • {type} • {ship} • {status}"
+    },
+    "actions": {
+      "cancel": "Cancel Order",
+      "viewDetails": "View Details"
+    },
+    "cancelModal": {
+      "title": "Cancel Order",
+      "message": "Are you sure you want to cancel this order? This action cannot be undone.",
+      "actions": {
+        "cancel": "No, Keep Order",
+        "confirm": "Yes, Cancel Order"
+      },
+      "alt": {
+        "warning": "Warning icon"
+      }
+    },
+    "details": {
+      "tabs": {
+        "orderDetails": "Order Details",
+        "productDetails": "Product Details",
+        "shippingDetails": "Shipping Details"
+      },
+      "actions": {
+        "shipNow": "Ship Now"
+      },
+      "modals": {
+        "approve": {
+          "title": "Confirm Approval",
+          "message": "Are you sure you want to approve this order?"
+        },
+        "reject": {
+          "title": "Confirm Rejection",
+          "message": "Are you sure you want to reject this order?"
+        },
+        "actions": {
+          "cancel": "Cancel",
+          "confirm": "Confirm"
+        }
+      },
+      "status": {
+        "title": "Order Status",
+        "submitted": "Submitted",
+        "cancelled": "Cancelled",
+        "approved": "Approved",
+        "rejected": "Rejected",
+        "orderSent": "Order Sent",
+        "orderCreated": "Order Created",
+        "underProcessing": "Under Processing",
+        "ordersent": "Order Sent",
+        "ordercreated": "Order Created",
+        "underprocessing": "Under Processing",
+        "pending": "Pending",
+        "pendingMessage": "This order is pending your approval. Please review and take appropriate action.",
+        "approvedMessage": "This order has been approved. You can now proceed with shipping."
+      },
+      "banner": {
+        "pendingMessage": "This order is pending your approval. Please review and take appropriate action.",
+        "actions": {
+          "approve": "Approve",
+          "reject": "Reject"
+        }
+      },
+      "brand": {
+        "title": "Brand",
+        "name": "Brand Name",
+        "description": "Description text only",
+        "alt": "Brand",
+        "viewProfile": "View Profile"
+      },
+      "branch": {
+        "title": "Branch",
+        "name": "Branch Name",
+        "description": "Description text only",
+        "location": "Branch Location"
+      },
+      "address": {
+        "title": "Address",
+        "value": "Address Value",
+        "description": "Description text only",
+        "location": "Address Location"
+      },
+      "shipping": {
+        "owner": "Shipping Owner",
+        "method": "Shipping Method",
+        "description": "Description text only",
+        "pending": "Pending",
+        "title": "Shipping Details",
+        "subtitle": "View shipping details for the order",
+        "banner": {
+          "pendingMessage": "This order is pending your approval. Please review and take appropriate action.",
+          "actions": {
+            "approve": "Approve",
+            "reject": "Reject"
+          }
+        },
+        "alt": {
+          "info": "Information",
+          "approve": "Approve icon",
+          "reject": "Reject icon"
+        }
+      },
+      "po": {
+        "expiration": "Purchase Order Expiration",
+        "description": "Description text only"
+      },
+      "additional": {
+        "title": "Additional Order Details",
+        "description": "More details on the products I have some questions about the products that will.."
+      },
+      "attachments": {
+        "title": "Uploaded Attachments",
+        "description": "Description text only",
+        "alt": "PDF file",
+        "uploading": "Uploading...",
+        "uploadProgress": "{current}KB of {total}KB",
+        "fileName": "my-company-cr.pdf",
+        "remove": "Remove attachment"
+      },
+      "orderNumber": {
+        "title": "Order Number"
+      },
+      "orderType": {
+        "title": "Order Type",
+        "restock": "Restock",
+        "sample": "Sample",
+        "newstock": "New Stock",
+        "return": "Return"
+      },
+      "transactions": {
+        "title": "Transactions",
+        "count": "{count} new activities in total",
+        "cancelled": "Cancelled",
+        "sent": "Order Sent",
+        "created": "Order Created",
+        "shipNow": "Ship Now"
+      },
+      "alt": {
+        "alert": "Alert icon",
+        "brand": "Brand logo",
+        "attachments": "Attachment file",
+        "warning": "Warning icon",
+        "close": "Close",
+        "arrow": "Arrow",
+        "more": "More",
+        "info": "Information",
+        "products": "Products",
+        "pieces": "Pieces",
+        "value": "Value",
+        "status": "Status",
+        "orderType": "Order Type"
+      },
+      "resendBanner": {
+        "message": "You can resend the order. Would you like to resend it?",
+        "resend": "Resend Order"
+      },
+      "sentOrderValue": {
+        "title": "Sent Order Value",
+        "description": "Description text only",
+        "productsTotal": "Products Total",
+        "piecesTotal": "Pieces Total",
+        "asValue": "As Value"
+      },
+      "approvedOrderValue": {
+        "title": "Approved Order Value",
+        "description": "Description text only",
+        "productsTotal": "Products Total",
+        "piecesTotal": "Pieces Total",
+        "asValue": "As Value"
+      },
+      "acceptedProducts": {
+        "title": "Accepted Products",
+        "description": "Description text only",
+        "downloadFile": "Download Products File",
+        "loadMore": "Load More"
+      },
+      "cancelModal": {
+        "title": "Cancel Order",
+        "message": "Are you sure you want to cancel this order? This action cannot be undone.",
+        "actions": {
+          "cancel": "No, Keep Order",
+          "confirm": "Yes, Cancel Order"
+        },
+        "alt": {
+          "warning": "Warning icon"
+        }
+      },
+      "statusBanner": {
+        "message": "This order is pending your approval. Do you want to cancel the order?",
+        "cancel": "Cancel"
+      }
+    }
+  },
+  "products": {
+    "title": "Products",
+    "description": "Explore and search different retailers.",
+    "descriptionProducts": "Explore and search different products.",
+    "addNewProduct": "Add a new product",
+    "heading": "Vendor Product Details",
+    "subheading": "View seller product detail's and manage inventory",
+    "discard": "Discard",
+    "stats": {
+      "totalProducts": "Total Products",
+      "weeklyChange": "+{count} this week",
+      "thisWeek": "this week"
+    },
+    "search": {
+      "placeholder": "Search Retailers ...",
+      "placeholderProducts": "Search Products ...",
+      "placeholderBrands": "Brands",
+      "category": {
+        "placeholder": "Product's Category"
+      }
+    },
+    "filter": "Filter",
+    "categories": {
+      "perfume": "Perfume",
+      "stationary": "Stationary",
+      "dresses": "Dresses",
+      "clothing": "Clothing",
+      "accessories": "Accessories",
+      "electronics": "Electronics",
+      "stationery": "Stationery",
+      "technology": "Technology",
+      "fashion": "Fashion",
+      "beauty": "Beauty",
+      "sports": "Sports",
+      "books": "Books"
+    },
+    "alt": {
+      "add": "Add",
+      "filter": "Filter icon"
+    },
+    "modal": {
+      "description": "Description",
+      "steps": {
+        "productDetails": "Product Details",
+        "productImages": "Product Images",
+        "additionalDetails": "Additional Details"
+      },
+      "subtitle": "Provide essential information to proceed.",
+      "upload": {
+        "downloadTemplate": "Download Template",
+        "productsCatalog": "Products Catalog",
+        "chooseFile": "Choose a file or drag & drop it here.",
+        "fileFormats": "csv, and excel formats, up to 50 MB.",
+        "browseCSV": "Browse CSV",
+        "or": "OR",
+        "addManually": "Add Manually",
+        "completed": "Completed",
+        "images": {
+          "title": "{productName} Images",
+          "chooseFile": "Choose a file or drag & drop it here.",
+          "fileFormats": "JPEG, PNG up to 5 MB.",
+          "browseFiles": "Browse files",
+          "uploading": "Uploading images...",
+          "uploadingDescription": "Please wait while your images are being uploaded",
+          "noImagesMessage": "No images uploaded yet. Please upload at least one image to continue."
+        }
+      },
+      "form": {
+        "productName": {
+          "label": "Product name",
+          "required": "(required)",
+          "placeholder": "Type your product name here"
+        },
+        "productDescription": {
+          "label": "Product description",
+          "optional": "(optional)",
+          "placeholder": "Type your product description here",
+          "charCount": "{current}/200"
+        },
+        "productCategories": {
+          "label": "Product categories",
+          "required": "(required)",
+          "placeholder": "Select categories..."
+        },
+        "productType": {
+          "private": {
+            "label": "Private Product",
+            "description": "Special products and hidden from retailers"
+          },
+          "onDemand": {
+            "label": "On-demand Product",
+            "description": "Tailor-made, handcrafted, or items that need time to produce"
+          }
+        },
+        "productCost": {
+          "label": "Product cost price",
+          "optional": "(optional)",
+          "placeholder": "0.00",
+          "currency": "SAR",
+          "hint": "For how much do you buy this product?"
+        },
+        "productPrice": {
+          "label": "Product selling price",
+          "required": "(required)",
+          "placeholder": "0.00",
+          "currency": "SAR",
+          "hint": "For how much do you sell this product?"
+        },
+        "productWeight": {
+          "label": "Product weight",
+          "optional": "(optional)",
+          "placeholder": "0.00",
+          "unit": "KG",
+          "hint": "For how much do you buy this product?"
+        },
+        "productSKU": {
+          "label": "Product SKU code",
+          "optional": "(optional)",
+          "placeholder": "AABB0000",
+          "generate": "Generate",
+          "hint": "Add your sequential code, or let the system generate a code for you."
+        }
+      },
+      "actions": {
+        "cancel": "Cancel",
+        "back": "Back",
+        "continue": "Continue",
+        "finish": "Finish"
+      }
+    },
+    "filterModal": {
+      "title": "Filter Products",
+      "description": "Filter products by category and price range",
+      "categorySection": "CATEGORY",
+      "category": "Category",
+      "selectCategory": "Select Category",
+      "priceSection": "PRICE RANGE",
+      "priceRange": "Price Range",
+      "min": "Min",
+      "max": "Max",
+      "cancel": "Cancel",
+      "saveChanges": "Save Changes",
+      "categories": {
+        "title": "Categories",
+        "placeholder": "Select category"
+      },
+      "price": {
+        "title": "Price Range",
+        "min": "Min",
+        "max": "Max",
+        "currency": "SAR"
+      },
+      "actions": {
+        "apply": "Apply Filters",
+        "reset": "Reset",
+        "cancel": "Cancel"
+      }
+    },
+    "agreementFilterModal": {
+      "title": "Filter",
+      "description": "Manage your product details.",
+      "retailerSection": "RETAILER",
+      "retailerName": "Retailer Name",
+      "agreementSection": "AGREEMENT",
+      "agreementName": "Agreement Name",
+      "duration": "Duration",
+      "cycle": "Cycle",
+      "costType": "Cost Type",
+      "percentage": "Percentage",
+      "ordersSection": "ORDERS",
+      "ordersNumber": "Orders Number",
+      "from": "FROM",
+      "to": "TO",
+      "cancel": "Cancel",
+      "saveChanges": "Save Changes"
+    },
+    "additionalDetails": {
+      "title": "Additional Details",
+      "sizes": {
+        "label": "Sizes",
+        "placeholder": "Select sizes..."
+      },
+      "colors": {
+        "label": "Colors",
+        "placeholder": "Select colors..."
+      },
+      "materials": {
+        "label": "Materials",
+        "placeholder": "Select materials..."
+      },
+      "features": {
+        "label": "Features",
+        "placeholder": "Select features..."
+      }
+    },
+    "category": {
+      "title": "Category",
+      "description": "Product's category e.g. Electronics etc."
+    },
+    "price": {
+      "title": "Price",
+      "description": "Price of the product"
+    },
+    "sku": {
+      "title": "SKU Code",
+      "description": "Stock keeping unit of the product"
+    },
+    "weight": {
+      "title": "Weight",
+      "description": "Weight of the product"
+    },
+    "manufacturer": {
+      "title": "Manufacturer",
+      "description": "Manufacturer of the product"
+    },
+    "productStatus": {
+      "title": "Product Status",
+      "description": "Status of the product"
+    },
+    "sellingPrice": {
+      "title": "Selling Price",
+      "description": "Selling price of the product"
+    }
+  },
+  "shipping": {
+    "title": "Shipping",
+    "description": "Explore and search different retailers' agreement.",
+    "totalRequests": "Total Shipping Requests",
+    "totalCost": "Total Shipping Cost",
+    "order": "Order no.",
+    "dateTime": "Date & Time",
+    "price": "Price",
+    "products": "Products",
+    "totalWeight": "Total Weight",
+    "shippingmethod": "Shipping Method",
+    "reviewDetails": {
+    "title": "Shipping Order Details",
+    "subtitle": "Review the locations and the products weights",
+    "pickupAddress": "Pickup address:",
+    "dropOffAddress": "Drop-off address:",
+    "tableHeaders": {
+      "productName": "Product Name",
+      "price": "Price",
+      "qty": "QTY",
+      "weight": "Weight"
+    },
+    "states": {
+      "loading": "Loading shipment details...",
+      "error": "Error: {error}",
+      "noProductsFound": "No products found"
+    },
+    "actions": {
+      "edit": "Edit",
+      "save": "Save",
+      "saving": "Saving...",
+      "sendOrderNow": "Send Order Now!"
+    },
+    "validation": {
+      "updateWeightFirst": "Please update weight first, weight cannot be zero."
+    },
+    "units": {
+      "sar": "SAR",
+      "kg": "KG"
+    }
+  },
+    "shippingOrderModal": {
+    "actions": {
+      "back": "Back",
+      "close": "Close"
+    },
+    "steps": {
+      "reviewDetails": "Review Details",
+      "shippingMethod": "Shipping Method"
+    },
+    "altText": {
+      "shipping": "Shipping"
+    },
+    "ariaLabels": {
+      "close": "Close"
+    }
+  },
+    "shippingStats": {
+    "labels": {
+      "totalRequests": "Total Requests",
+      "totalCost": "Total Cost",
+      "shippingMethodTitle": "Shipping Method"
+    },
+    "shippingMethod": {
+      "title": "Shipping Method",
+      "description": "No shipping method data available"
+    },
+    "methodDisplayNames": {
+      "viaAramex": "Via Aramex",
+      "external": "External",
+      "pending": "Pending"
+    },
+    "states": {
+      "loading": "Loading..."
+    },
+    "units": {
+      "sar": "SAR"
+    }
+  },
+
+    "alt": {
+      "headerIcon": "Shipping Icon",
+      "extraButton": "Extra Button"
+    },
+    "status": {
+      "title": "Status",
+      "inTransit": "In Transit",
+      "pending": "Pending",
+      "delivered": "Delivered"
+    },
+    "shippingMethod": {
+      "title": "Shipping Methods",
+      "description": "No data available",
+      "aramex": "Aramex",
+      "external": "External",
+      "pending": "Pending"
+    },
+    "details": {
+      "title": "Shipping Details",
+      "subtitle": "View shipping details for your shipment",
+      "shipmentId": "Shipment ID",
+      "date": "Date",
+      "price": "Price",
+      "products": "Products",
+      "weight": "Weight",
+      "status": "Status",
+      "method": "Shipping Method",
+      "sidebar": {
+        "title": "PERSONAL SETTINGS",
+        "shipping": {
+          "label": "Shipping & Delivery",
+          "alt": "Shipping icon"
+        },
+        "product": {
+          "label": "Product & Quantity",
+          "alt": "Product icon"
+        }
+      },
+      "header": {
+        "title": "Shipping request details",
+        "description": "View retailer's details and send agreement",
+        "discard": "Discard"
+      }
+    },
+    "success": {
+      "title": "Shipping request Successfully created",
+      "description": "Your shipping request has been successfully created, and the order's receiver has been notified. Please update the shipping status after delivery.",
+      "viewDetails": "View Details"
+    },
+    "raffSuccess": {
+      "title": "Raffle Success",
+      "description": "Your raffle shipment has been processed successfully",
+      "viewLabel": "View Label",
+      "viewDetails": "View Details"
+    },
+    "filter": {
+      "tabs": {
+        "issued": "Issued",
+        "pending": "Pending"
+      },
+      "search": {
+        "placeholder": "Search by order number"
+      },
+      "shippingMethod": {
+        "label": "Shipping Method",
+        "allMethods": "All Methods",
+        "shippingMethod": "Shipping Method",
+        "aramex": "Aramex",
+        "external": "External",
+        "pending": "Pending"
+      },
+      "filter": "Filter",
+      "modal": {
+        "title": "Filter",
+        "subtitle": "Manage your product details.",
+        "price": {
+          "title": "PRICE",
+          "label": "Price"
+        },
+        "products": {
+          "title": "PRODUCTS",
+          "label": "Products Number"
+        },
+        "weight": {
+          "title": "WEIGHT",
+          "label": "Weight"
+        },
+        "shippingStatus": {
+          "title": "SHIPPING STATUS",
+          "label": "Shipping Status"
+        },
+        "actions": {
+          "cancel": "Cancel",
+          "saveChanges": "Save Changes"
+        }
+      }
+    },
+    "modal": {
+      "back": "Back",
+      "alt": {
+        "shipping": "Shipping",
+        "close": "Close",
+        "save": "Save"
+      },
+      "steps": {
+        "reviewDetails": "Review Details",
+        "shippingMethod": "Shipping Method"
+      },
+      "saveForLater": "Save for later"
+    },
+    "delivery": {
+      "path": {
+        "title": "Shipping path details:",
+        "subtitle":"Pickup and delivery locations",
+        "description": "Description texts only",
+        "pickup": {
+          "label": "Pickup address:",
+          "address": "Al-Falah neighborhood - Saudi Arabia",
+          "alt": "Pickup icon"
+        },
+        "dropoff": {
+          "label": "Drop-off address:",
+          "address": "Al-Falah neighborhood - Saudi Arabia",
+          "alt": "Drop-off icon"
+        }
+      },
+      "orderNumber": {
+        "title": "Shipping Order Number",
+        "subtitle":"Shipment ID",
+        "description": "Description texts only",
+        "value": "#234642135"
+      },
+      "dateTime": {
+        "title": "Date & Time (of issuing the order)",
+        "subtitle":"Order creation date",
+        "description": "Description texts only",
+        "value": "02/05/2025 11:20 PM"
+      },
+      "method": {
+        "title": "Shipping Method:",
+        "subtitle":"Delivery method",
+        "description": "Description texts only",
+        "external": "External",
+        "aramex": "Aramex"
+      },
+      "status": {
+        "title": "Shipment Status:",
+        "subtitle":"Current shipment state",
+        "description": "Description texts only",
+        "inTransit": "In Transit",
+        "sent": "Sent",
+        "changeToDelivered": "Change to Delivered"
+      },
+      "weight": {
+        "title": "Total Weight",
+        "subtitle":"Total product weight",
+        "description": "Description texts only",
+        "value": "55 KG"
+      },
+      "cost": {
+        "title": "Shipping Cost",
+        "subtitle":"Total shipping charges",
+        "description": "Description texts only",
+        "value": "0 SAR",
+        "raffValue": "100 SAR",
+        "viewInvoice": "View Invoice"
+      },
+      "label": {
+        "title": "Shipping Label",
+        "subtitle":"Printable shipping label",
+        "description": "Description texts only",
+        "fileName": "my-company-cr.pdf",
+        "fileSize": "0 KB of 120 KB",
+        "alt": "PDF icon"
+      },
+      "shippingLabel": {
+        "title": "Shipping Label",
+        "description": "Description texts only",
+        "alt": "PDF file",
+        "fileName": "my-company-cr.pdf",
+        "fileSize": "0 KB of 120 KB"
+      }
+    },
+    "productQuantity": {
+      "approvedOrderValue": {
+        "title": "Approved Order's Value",
+        "description": "Accepted products value"
+      },
+      "summary": {
+        "totalProducts": "Total Products",
+        "totalQuantity": "Total Quantity",
+        "totalValue": "Total Value",
+        "orderNumber": "Order's Number"
+      },
+      "productAndQuantity": {
+        "title": "Product & Quantity",
+        "description": "Products and quantities list",
+        "table": {
+          "productName": "Product Name",
+          "price": "Price",
+          "qty": "QTY",
+          "weight": "Weight"
+        }
+      }
+    },
+    "method": {
+      "title": "Select Shipping Method",
+      "altTitle":"Shipping Order Details",
+      "description": "Choose your preferred shipping method for this order",
+      "altDescription":"Select a shipping method to send your shipment to your partner.",
+      "orderDetails": {
+        "title": "Order Details",
+        "products": "Total Products",
+        "quantity": "Total Quantity",
+        "totalValue": "Total Value",
+        "totalWeight": "Total Weight"
+      },
+      "selectShippingMethod": "Select Shipping Method",
+      "external": {
+        "title": "External Shipping",
+        "description": "Ship your order using your preferred shipping provider",
+        "altDescription": "Ship with your own logistics partner",
+        "alt": "External shipping icon"
+      },
+      "aramex":{
+        "title":"Ship with Aramex",
+        "description":"via our logistics partner Aramex"
+
+      },
+      "raff": {
+        "title": "Ship with Raff",
+        "description": "Let Raff handle the shipping process for you",
+        "price": "Shipping cost: {amount}",
+        "alt": "Raff shipping icon"
+      },
+      "actions": {
+        "sendOrder": "Send Order",
+        "payAndShip": "Pay & Ship Now"
+      },
+      "costCalculation": {
+        "loading": "Please wait while we calculate the best prices to offer you.",
+        "success": "Price calculated successfully!",
+        "error": "Error calculating price",
+        "calculating": "Calculating..."
+      },
+      "shippingRoute": {
+        "title": "Shipping Route:",
+        "from": "From:",
+        "to": "To:"
+      }
+    },
+    "payment": {
+      "title": "Payment for Shipping",
+      "description": "Please complete the payment of {amount} {currency} to proceed with shipping",
+      "cancel": "Cancel",
+      "success": "Payment completed successfully!",
+      "error": "Payment failed. Please try again.",
+      "processing": "Processing payment..."
+    }
+  },
+  "profileSettings": {
+    "title": "Profile Settings",
+    "description": "Manage different settings in your dashboard.",
+    "loading": "Loading...",
+    "tabs": {
+      "userProfile": "User Profile",
+      "vendorProfile": "Vendor Profile",
+      "brandProfile": "Brand Profile",
+      "officialBusinessProfile": "Official Business Profile",
+      "teamAndPermissions": "Team & Permissions",
+      "subscriptionAndPlans": "Subscription & Plans"
+    },
+    "teamAndPermissions": {
+      "menuItems": {
+        "roles": {
+          "label": "Roles",
+          "iconAlt": "Roles Icon"
+        },
+        "team": {
+          "label": "Team",
+          "iconAlt": "Team Icon"
+        }
+      },
+      "team": {
+        "table": {
+          "columns": {
+            "name": "Name",
+            "email": "Email",
+            "mobile": "Mobile Number",
+            "role": "Role",
+            "status": "Status"
+          }
+        },
+        "search": {
+          "placeholder": "Search team"
+        },
+        "addMember": {
+          "button": "Add New Member",
+          "title": "Add New Member",
+          "description": "Provide essential information to proceed.",
+          "logoAlt": "Raff Logo",
+          "form": {
+            "fullName": {
+              "label": "Full Name",
+              "placeholder": "Enter full name",
+              "required": "*"
+            },
+            "email": {
+              "label": "Email",
+              "placeholder": "Enter email address",
+              "required": "*"
+            },
+            "mobileNumber": {
+              "label": "Mobile Number",
+              "placeholder": "Enter mobile number",
+              "required": "*"
+            },
+            "assignRoles": {
+              "label": "Assign Roles",
+              "maxRoles": "(max. 8)",
+              "placeholder": "Select roles",
+              "infoIconAlt": "Information about roles"
+            },
+            "note": "Any note for more details regarding the role and permission",
+            "submit": "Create Member"
+          }
+        },
+        "actions": {
+          "edit": "Edit",
+          "delete": "Delete",
+          "deleteMember": "Delete team member",
+          "deleteMemberDescription": "Are you sure you want to delete the team member \"{memberName}\"? This action cannot be undone.",
+          "cancel": "Cancel",
+          "save": "Save Changes",
+          "discard": "Discard Changes"
+        },
+        "status": {
+          "active": "Active",
+          "inactive": "Inactive"
+        },
+        "validation": {
+          "firstName": {
+            "required": "First name is required",
+            "invalid": "First name can only contain letters, spaces, and hyphens",
+            "minLength": "First name must be at least 2 characters long",
+            "maxLength": "First name cannot exceed 50 characters",
+            "leadingSpace": "First name cannot start with a space"
+          },
+          "lastName": {
+            "required": "Last name is required",
+            "invalid": "Last name can only contain letters, spaces, and hyphens",
+            "minLength": "Last name must be at least 2 characters long",
+            "maxLength": "Last name cannot exceed 50 characters",
+            "leadingSpace": "Last name cannot start with a space"
+          },
+          "phone": {
+            "required": "Phone number is required",
+            "invalid": "Please enter a valid phone number",
+            "maxLength": "Phone number cannot exceed 20 characters"
+          }
+        }
+      },
+      "roles": {
+        "table": {
+          "columns": {
+            "name": "Name",
+            "permissions": "Permissions",
+            "team": "Team",
+            "status": "Status"
+          }
+        },
+        "status": {
+          "active": "Active",
+          "inactive": "Inactive"
+        },
+        "search": {
+          "placeholder": "Search roles"
+        },
+        "createRole": {
+          "button": "Create Role",
+          "title": "Create New Role",
+          "logoAlt": "Raff Logo",
+          "modal": {
+            "title": "Create New Role",
+            "description": "Create a new role and assign permissions to manage access control."
+          },
+          "form": {
+            "roleName": {
+              "label": "Role Name",
+              "placeholder": "Enter role name"
+            },
+            "permissions": {
+              "title": "Permissions",
+              "agreements": {
+                "title": "Agreements",
+                "description": "Manage access to agreements and related actions"
+              },
+              "orders": {
+                "title": "Orders",
+                "description": "Manage access to orders and related actions"
+              },
+              "sales": {
+                "title": "Sales",
+                "description": "Manage access to sales and related actions"
+              },
+              "actions": {
+                "viewOnly": "View Only",
+                "update": "Update",
+                "add": "Add",
+                "delete": "Delete"
+              }
+            },
+            "note": "Note: Changes to role permissions will affect all users assigned to this role.",
+            "submit": "Create Role"
+          }
+        },
+        "deleteRole": {
+          "title": "Delete Role",
+          "description": "Are you sure you want to delete the role \"{roleName}\"? This action cannot be undone and will affect all users assigned to this role.",
+          "confirm": "Delete Role",
+          "cancel": "Cancel"
+        }
+      }
+    },
+    "userProfile": {
+      "fields": {
+        "firstName": {
+          "label": "First Name",
+          "description": "Enter your first name as it appears on official documents.",
+          "placeholder": "Enter first name"
+        },
+        "lastName": {
+          "label": "Last Name",
+          "description": "Enter your last name as it appears on official documents.",
+          "placeholder": "Enter last name"
+        },
+        "mobileNumber": {
+          "label": "Mobile Number",
+          "description": "Enter your mobile number for order updates and notifications.",
+          "placeholder": "Enter mobile number"
+        },
+        "email": {
+          "label": "Email Address",
+          "description": "Enter your email address for account-related communications.",
+          "placeholder": "Enter email address"
+        },
+        "changePassword": {
+          "label": "Change Password",
+          "description": "Update password for enhanced account security."
+        }
+      },
+      "validation": {
+        "firstName": {
+          "required": "First name is required",
+          "invalid": "First name can only contain letters, spaces, and hyphens",
+          "minLength": "First name must be at least 2 characters long",
+          "maxLength": "First name cannot exceed 50 characters",
+          "leadingSpace": "First name cannot start with a space"
+        },
+        "lastName": {
+          "required": "Last name is required",
+          "invalid": "Last name can only contain letters, spaces, and hyphens",
+          "minLength": "Last name must be at least 2 characters long",
+          "maxLength": "Last name cannot exceed 50 characters",
+          "leadingSpace": "Last name cannot start with a space"
+        },
+        "mobileNumber": {
+          "required": "Mobile number is required",
+          "invalid": "Please enter a valid mobile number",
+          "format": "Mobile number should contain only numbers and may include +, -, (, ), or spaces",
+          "leadingSpace": "Mobile number cannot start with a space"
+        }
+      },
+      "actions": {
+        "edit": "Edit",
+        "changePassword": "Change Password",
+        "discard": "Discard",
+        "saveChanges": "Save Changes",
+        "applyChanges": "Apply Changes"
+      },
+      "changePassword": {
+        "title": "Change Password",
+        "description": "Update password for enhanced account security.",
+        "currentPassword": {
+          "label": "Current Password",
+          "placeholder": "Enter current password"
+        },
+        "newPassword": {
+          "label": "New Password",
+          "placeholder": "Enter new password"
+        },
+        "confirmNewPassword": {
+          "label": "Confirm New Password",
+          "placeholder": "Enter confirm password"
+        },
+        "passwordsDoNotMatch": "Passwords do not match",
+        "mustContainAtLeast": "Must contain at least",
+        "atLeastOneUppercase": "At least 1 uppercase",
+        "atLeastOneNumber": "At least 1 number",
+        "atLeastEightCharacters": "At least 8 characters"
+      }
+    },
+    "bankInformation": {
+      "title": "Bank Information",
+      "fields": {
+        "ibanNumber": {
+          "label": "IBAN Number",
+          "description": "Enter your store's IBAN number for bank transfers."
+        },
+        "beneficiaryName": {
+          "label": "Beneficiary Name",
+          "description": "Enter the name of the account holder as it appears on bank documents."
+        },
+        "bankName": {
+          "label": "Bank Name",
+          "description": "Enter the name of your bank."
+        },
+        "bankAddress": {
+          "label": "Bank Address",
+          "description": "Enter the address of your bank branch."
+        },
+        "bankSwiftCode": {
+          "label": "Bank SWIFT Code",
+          "description": "Enter your bank's SWIFT/BIC code for international transfers."
+        },
+        "bankCertificate": {
+          "label": "Bank IBAN Certificate",
+          "description": "Upload your IBAN certificate in PDF, CSV, or Excel format.",
+          "uploadButton": "Upload File",
+          "fileTypes": "CSV, and Excel formats, up to 50 MB",
+          "uploading": "Uploading...",
+          "completed": "Completed",
+          "remove": "Remove"
+        }
+      },
+      "validation": {
+        "beneficiaryName": {
+          "required": "Beneficiary name is required",
+          "invalid": "Beneficiary name can only contain letters, spaces, hyphens, and apostrophes",
+          "minLength": "Beneficiary name must be at least 2 characters long",
+          "maxLength": "Beneficiary name cannot exceed 100 characters"
+        },
+        "bankName": {
+          "required": "Bank name is required",
+          "invalid": "Bank name can only contain letters, numbers, spaces, and hyphens",
+          "minLength": "Bank name must be at least 2 characters long",
+          "maxLength": "Bank name cannot exceed 100 characters"
+        },
+        "bankAddress": {
+          "required": "Bank address is required",
+          "invalid": "Bank address can only contain letters, numbers, spaces, hyphens, commas, and periods",
+          "minLength": "Bank address must be at least 5 characters long",
+          "maxLength": "Bank address cannot exceed 200 characters"
+        }
+      },
+      "actions": {
+        "discard": "Discard",
+        "saveChanges": "Save Changes"
+      }
+    },
+    "officialBusinessProfile": {
+      "menuItems": {
+        "ownerDetails": {
+          "label": "Owner Details",
+          "iconAlt": "Owner details icon"
+        },
+        "commercialInformation": {
+          "label": "Commercial Information",
+          "iconAlt": "Commercial information icon"
+        },
+        "officialAddress": {
+          "label": "Official Address",
+          "iconAlt": "Official address icon"
+        },
+        "bankInformation": {
+          "label": "Bank Information",
+          "iconAlt": "Bank information icon"
+        }
+      }
+    },
+    "owner": {
+      "firstName": "First Name",
+      "firstNameDesc": "Enter your first name as it appears on official documents",
+      "lastName": "Last Name",
+      "lastNameDesc": "Enter your last name as it appears on official documents",
+      "email": "Email Address",
+      "emailDesc": "Enter your primary email address for business communications",
+      "phone": "Phone Number",
+      "phoneDesc": "Enter your primary contact number for business communications",
+      "edit": "Edit",
+      "discard": "Discard",
+      "saveChanges": "Save Changes",
+      "fieldDesc": "Enter your store's display name for customer visibility",
+      "validation": {
+        "firstName": {
+          "required": "First name is required",
+          "invalid": "First name can only contain letters, spaces, and hyphens",
+          "minLength": "First name must be at least 2 characters long",
+          "maxLength": "First name cannot exceed 50 characters",
+          "leadingSpace": "First name cannot start with a space"
+        },
+        "lastName": {
+          "required": "Last name is required",
+          "invalid": "Last name can only contain letters, spaces, and hyphens",
+          "minLength": "Last name must be at least 2 characters long",
+          "maxLength": "Last name cannot exceed 50 characters",
+          "leadingSpace": "Last name cannot start with a space"
+        },
+        "phone": {
+          "required": "Phone number is required",
+          "invalid": "Please enter a valid phone number",
+          "format": "Phone number should contain only numbers and may include +, -, (, ), or spaces"
+        }
+      }
+    },
+    "commercialInformation": {
+      "fields": {
+        "commercialLicense": {
+          "label": "Commercial License",
+          "description": "Select the type of commercial license you hold",
+          "types": {
+            "freelance_license": "Freelance License",
+            "commercial_license": "Commercial License",
+            "limited_liability_company": "Limited Liability Company",
+            "general_partnership": "General Partnership",
+            "branch_of_foreign_company": "Branch of Foreign Company"
+          }
+        },
+        "license": {
+          "default": "Enter your license name"
+        },
+        "brandName": {
+          "label": {
+            "vendor": "Brand Name",
+            "brand": "Store Name"
+          },
+          "description": "Enter your brand/store name as registered in your commercial license",
+          "placeholder": "Enter brand/store name",
+          "default": "Enter brand name"
+        },
+        "licenseNumber": {
+          "label": "License Number",
+          "description": "Enter your commercial license number",
+          "default": "Enter license number"
+        },
+        "crIssueDate": {
+          "label": "CR Issue Date",
+          "description": "Enter the date when your commercial registration was issued",
+          "placeholder": "Enter date"
+        },
+        "crExpiryDate": {
+          "label": "CR Expiry Date",
+          "description": "Enter the expiry date of your commercial registration",
+          "placeholder": "Enter date"
+        },
+        "instagramProfile": {
+          "label": "Instagram Profile",
+          "description": "Enter your business Instagram profile URL",
+          "default": "Enter Instagram profile"
+        },
+        "commercialLicenseFile": {
+          "label": "Commercial License File",
+          "description": "Upload your commercial license file",
+          "actions": {
+            "upload": "Upload File",
+            "remove": "Remove File"
+          },
+          "fileTypes": "PDF, CSV, Excel files up to 50MB",
+          "uploading": "Uploading...",
+          "completed": "Completed",
+          "ariaLabel": "Upload commercial license file",
+          "fileType": {
+            "pdf": "PDF",
+            "csv": "CSV"
+          }
+        },
+        "hasVatNumber": {
+          "label": "I have a VAT number",
+          "description": "Check this if you have a VAT registration number"
+        },
+        "vatNumber": {
+          "label": "VAT Number",
+          "description": "Enter your VAT registration number",
+          "default": "Enter VAT number"
+        },
+        "vatFile": {
+          "label": "VAT File",
+          "description": "Upload your VAT registration file",
+          "actions": {
+            "upload": "Upload File",
+            "remove": "Remove File"
+          },
+          "fileTypes": "PDF, CSV, Excel files up to 50MB",
+          "uploading": "Uploading...",
+          "completed": "Completed",
+          "ariaLabel": "Upload VAT file",
+          "fileType": {
+            "pdf": "PDF",
+            "csv": "CSV"
+          }
+        }
+      },
+      "actions": {
+        "edit": "Edit",
+        "remove": "Remove",
+        "discard": "Discard",
+        "saveChanges": "Save Changes"
+      }
+    },
+    "officialAddress": {
+      "fields": {
+        "country": {
+          "label": "Country",
+          "description": "Select your business country"
+        },
+        "addressLine1": {
+          "label": "Address Line 1",
+          "description": "Enter your business street address"
+        },
+        "addressLine2": {
+          "label": "Address Line 2",
+          "description": "Enter additional address information if needed"
+        },
+        "state": {
+          "label": "State/Province",
+          "description": "Enter your business state or province"
+        },
+        "city": {
+          "label": "City",
+          "description": "Enter your business city"
+        },
+        "zipCode": {
+          "label": "ZIP Code",
+          "description": "Enter your business postal code"
+        }
+      },
+      "actions": {
+        "edit": "Edit",
+        "discard": "Discard",
+        "saveChanges": "Save Changes"
+      },
+      "common": {
+        "select": "Select...",
+        "searchPlaceholder": "Search {field}...",
+        "noResults": "No results found"
+      },
+      "validation": {
+        "addressLine1": {
+          "required": "Address line 1 is required",
+          "invalid": "Address can only contain letters, numbers, spaces, hyphens, commas, and periods",
+          "minLength": "Address must be at least 5 characters long",
+          "maxLength": "Address cannot exceed 200 characters"
+        },
+        "addressLine2": {
+          "invalid": "Address can only contain letters, numbers, spaces, hyphens, commas, and periods",
+          "maxLength": "Address cannot exceed 200 characters"
+        },
+        "zipCode": {
+          "required": "ZIP code is required",
+          "invalid": "ZIP code can only contain numbers and hyphens",
+          "minLength": "ZIP code must be at least 3 characters long",
+          "maxLength": "ZIP code cannot exceed 10 characters"
+        }
+      }
+    },
+    "brandProfile": {
+      "menuItems": {
+        "vendorDetails": "Vendor Details",
+        "brandDetails": "Brand Details",
+        "branchesDetail": "Branches Detail",
+        "icons": {
+          "brand": "Brand icon",
+          "branches": "Branches icon"
+        }
+      }
+    },
+    "brandDetails": {
+      "fields": {
+        "logo": {
+          "label": "Logo",
+          "description": "Upload your brand logo",
+          "imageAlt": "Brand logo",
+          "uploadTitle": "Upload Logo",
+          "requirements": "PNG, JPG up to 2MB",
+          "actions": {
+            "upload": "Upload Logo",
+            "change": "Change Logo",
+            "remove": "Remove Logo"
+          }
+        },
+        "brandName": {
+          "label": {
+            "vendor": "Brand Name",
+            "brand": "Your Brand Name"
+          },
+          "description": "Enter your brand name as it will appear to customers",
+          "placeholder": {
+            "vendor": "Enter brand name",
+            "brand": "Enter your brand name"
+          }
+        },
+        "brandCategory": {
+          "label": {
+            "vendor": "Brand Category",
+            "brand": "Your Brand Category"
+          },
+          "description": "Select the category that best describes your brand",
+          "options": {
+            "dresses": "Dresses",
+            "accessories": "Accessories",
+            "footwear": "Footwear"
+          }
+        },
+        "website": {
+          "label": "Business Website",
+          "description": "Enter your business website URL"
+        },
+        "instagram": {
+          "label": "Instagram Profile",
+          "description": "Enter your business Instagram profile URL"
+        },
+        "inventoryLocation": {
+          "label": "Inventory Location",
+          "mapIconAlt": "Map icon",
+          "mapImageAlt": "Location map"
+        }
+      },
+      "validation": {
+        "brandName": {
+          "required": "Brand/store name is required",
+          "leadingSpace": "Brand/store name cannot start with a space",
+          "invalid": "Brand/store name can only contain letters, numbers, spaces, and hyphens",
+          "minLength": "Brand/store name must be at least 2 characters long",
+          "maxLength": "Brand/store name cannot exceed 30 characters"
+        },
+        "licenseNumber": {
+          "required": "License number is required",
+          "invalid": "License number can only contain letters, numbers, hyphens, and spaces",
+          "minLength": "License number must be at least 3 characters long",
+          "maxLength": "License number cannot exceed 10 characters"
+        },
+        "instagramProfile": {
+          "required": "Instagram profile is required",
+          "invalid": "Please enter a valid Instagram URL or username",
+          "maxLength": "Instagram profile cannot exceed 100 characters"
+        },
+        "vatNumber": {
+          "required": "VAT number is required",
+          "invalid": "VAT number can only contain letters, numbers, and hyphens",
+          "maxLength": "VAT number cannot exceed 14 characters"
+        }
+      },
+      "actions": {
+        "edit": "Edit",
+        "select": "Select",
+        "discard": "Discard",
+        "saveChanges": "Save Changes"
+      }
+    },
+    "branchesDetail": {
+      "deactivateModal": {
+        "title": "Deactivate Branch",
+        "description": "Are you sure you want to deactivate this branch?",
+        "infoIconAlt": "Information icon",
+        "actions": {
+          "cancel": "Cancel",
+          "confirm": "Confirm"
+        }
+      },
+      "fields": {
+        "branchesList": {
+          "label": "Branches List",
+          "description": "Manage your business branches"
+        },
+        "mainWarehouse": {
+          "label": "Main Warehouse",
+          "description": "Select your main warehouse location"
+        },
+        "shippingBranch": {
+          "label": "Shipping Branch",
+          "description": "Select your preferred shipping branch"
+        },
+        "onlineSellingChannel": {
+          "label": "Online Selling Channel",
+          "description": "Enter your online store URL"
+        }
+      },
+      "table": {
+        "columns": {
+          "name": "Name",
+          "location": "Location",
+          "status": "Status"
+        }
+      },
+      "status": {
+        "active": "Active",
+        "inactive": "Inactive"
+      },
+      "actions": {
+        "edit": "Edit",
+        "discard": "Discard",
+        "saveChanges": "Save Changes",
+        "addNewBranch": "Add New Branch"
+      }
+    },
+    "subscriptionAndPlans": {
+      "menuItems": {
+        "plansDetails": {
+          "label": "Plans Details",
+          "iconAlt": "Plans Details Icon"
+        },
+        "paymentTransactions": {
+          "label": "Payment Transactions",
+          "iconAlt": "Payment Transactions Icon"
+        }
+      },
+      "pagination": {
+        "pageInfo": "Page {page} of {totalPages}",
+        "itemsPerPage": "{count} per page"
+      },
+      "paymentTransactions": {
+        "table": {
+          "columns": {
+            "no": "No.",
+            "date": "Date & Time",
+            "type": "Type of fees",
+            "amount": "Amount"
+          },
+          "action": {
+            "viewInvoice": "View Invoice"
+          }
+        },
+        "filters": {
+          "type": {
+            "placeholder": "Select type",
+            "all": "All",
+            "subscription": "Subscription",
+            "shipping": "Shipping rates"
+          },
+          "month": {
+            "january2024": "January 2024",
+            "february2024": "February 2024"
+          },
+          "button": "Filter"
+        }
+      }
+    },
+    "team": {
+      "table": {
+        "columns": {
+          "name": "Name",
+          "email": "Email",
+          "mobile": "Mobile Number",
+          "role": "Role",
+          "status": "Status"
+        }
+      },
+      "search": {
+        "placeholder": "Search team members..."
+      },
+      "addMember": {
+        "button": "Add New Member",
+        "title": "Add New Member",
+        "description": "Provide essential information to proceed.",
+        "logoAlt": "Raff Logo",
+        "form": {
+          "fullName": {
+            "label": "Full Name",
+            "placeholder": "Enter full name",
+            "required": "*"
+          },
+          "email": {
+            "label": "Email",
+            "placeholder": "Enter email address",
+            "required": "*"
+          },
+          "mobileNumber": {
+            "label": "Mobile Number",
+            "placeholder": "Enter mobile number",
+            "required": "*"
+          },
+          "assignRoles": {
+            "label": "Assign Roles",
+            "maxRoles": "(max. 8)",
+            "placeholder": "Select roles",
+            "infoIconAlt": "Information about roles"
+          },
+          "note": "Any note for more details regarding the role and permission",
+          "submit": "Create Member"
+        }
+      },
+      "actions": {
+        "edit": "Edit",
+        "delete": "Delete",
+        "deleteMember": "Delete team member",
+        "deleteMemberDescription": "Are you sure you want to delete the team member \"{memberName}\"? This action cannot be undone.",
+        "cancel": "Cancel",
+        "deleting": "Deleting...",
+        "save": "Save Changes",
+        "discard": "Discard Changes"
+      },
+      "status": {
+        "active": "Active",
+        "inactive": "Inactive"
+      }
+    }
+  },
+  "plans": {
+    "currentPlan": {
+      "title": "Current Plan",
+      "renews": "Renews {date}",
+      "usersIncluded": "{count} Users included",
+      "free": "Free",
+      "upgradeNow": "Upgrade now"
+    },
+    "referral": {
+      "title": "Get 1 Month Free",
+      "description": "Refer this link to any brand and get one month free",
+      "share": "Share",
+      "learnMore": "Learn More"
+    },
+    "upgradeModal": {
+      "title": "Subscribe NOW!",
+      "description": "Subscribe now for a chance to showcase your products in over 60 points of sale across Saudi Arabia — from your location and with just one click!",
+      "yearly": "Yearly",
+      "monthly": "Monthly",
+      "whatsIncluded": "What's included"
+    },
+    "plans": {
+      "individual": {
+        "title": "For individuals",
+        "subtitle": "Saudi POS Network",
+        "description": "Your first choice for expansion within the Kingdom of Saudi Arabia",
+        "features": [
+          "Participation and collaboration with only 5 POS",
+          "Raffi's discounted shipping rates",
+          "10 team members"
+        ],
+        "button": "Get started"
+      },
+      "startup": {
+        "title": "For startups",
+        "subtitle": "GCC POS Network",
+        "description": "Access to Raffi's point of sale network in 7 Gulf countries",
+        "features": [
+          "Full access to a point of sale network in 7 Gulf countries",
+          "Raffi's discounted shipping rates",
+          "Sales reports: Monthly – Real-time (coming soon)",
+          "Up to 10 team members",
+          "Dedicated account manager"
+        ],
+        "button": "Get started",
+        "badge": "Popular"
+      },
+      "enterprise": {
+        "title": "For big companies",
+        "subtitle": "Saudi POS Network",
+        "description": "Your first choice for expansion within the Kingdom of Saudi Arabia",
+        "features": [
+          "Full access to over 60 POS across the Kingdom of Saudi Arabia",
+          "Raffi's discounted shipping rates",
+          "5 team members"
+        ],
+        "button": "Get started"
+      }
+    }
+  },
+  "roles": {
+    "table": {
+      "columns": {
+        "name": "Name",
+        "permissions": "Permissions",
+        "team": "Team",
+        "status": "Status"
+      }
+    },
+    "status": {
+      "active": "Active",
+      "inactive": "Inactive"
+    },
+    "search": {
+      "placeholder": "Search roles..."
+    },
+    "createRole": {
+      "button": "Create Role",
+      "title": "Create New Role",
+      "logoAlt": "Raff Logo",
+      "modal": {
+        "title": "Create New Role",
+        "description": "Create a new role and assign permissions to manage access control."
+      },
+      "form": {
+        "roleName": {
+          "label": "Role Name",
+          "placeholder": "Enter role name"
+        },
+        "permissions": {
+          "title": "Permissions",
+          "agreements": {
+            "title": "Agreements",
+            "description": "Manage access to agreements and related actions"
+          },
+          "orders": {
+            "title": "Orders",
+            "description": "Manage access to orders and related actions"
+          },
+          "sales": {
+            "title": "Sales",
+            "description": "Manage access to sales and related actions"
+          },
+          "actions": {
+            "viewOnly": "View Only",
+            "update": "Update",
+            "add": "Add",
+            "delete": "Delete"
+          }
+        },
+        "note": "Note: Changes to role permissions will affect all users assigned to this role.",
+        "submit": "Create Role"
+      }
+    }
+  },
+  "team": {
+    "table": {
+      "columns": {
+        "name": "Name",
+        "email": "Email",
+        "mobile": "Mobile Number",
+        "role": "Role",
+        "status": "Status"
+      }
+    },
+    "search": {
+      "placeholder": "Search here..."
+    },
+    "addMember": {
+      "button": "Add New Member",
+      "title": "Add New Member",
+      "description": "Provide essential information to proceed.",
+      "logoAlt": "Raff Logo",
+      "form": {
+        "fullName": {
+          "label": "Full Name",
+          "placeholder": "Name",
+          "required": "*"
+        },
+        "email": {
+          "label": "Email",
+          "placeholder": "example@gmail.com",
+          "required": "*"
+        },
+        "mobileNumber": {
+          "label": "Mobile Number",
+          "placeholder": "111-111-111",
+          "required": "*"
+        },
+        "assignRoles": {
+          "label": "Assign Roles",
+          "maxRoles": "(max. 8)",
+          "placeholder": "Roles",
+          "infoIconAlt": "Info"
+        },
+        "note": "Any note for more details regarding the role and permission",
+        "submit": "Create Role Now"
+      }
+    }
+  },
+  "settlements": {
+    "title": "Settlement",
+    "description": "Explore and search different retailers' agreement.",
+    "banner": {
+      "message": "To receive your due amount to your bank account, you must complete your (Official Business Profile) information",
+      "viewProfile": "View Profile"
+    },
+    "stats": {
+      "totalAmount": "Total Settlement Amounts",
+      "vsLastMonth": "vs last month",
+      "legend": {
+        "totalAmountDue": "Total Amount Due (Not Transferred)",
+        "totalAmountsReceived": "Total Amounts Received (Transferred)"
+      }
+    },
+    "table": {
+      "search": "Search here",
+      "paymentStatus": "Payment Status",
+      "filter": "Filter",
+      "columns": {
+        "no": "No.",
+        "retailer": "Retailer",
+        "status": "Status",
+        "dateTime": "Date & Time",
+        "amount": "Amount",
+        "relatedSR": "Related SR"
+      },
+      "status": {
+        "all": "All",
+        "paid": "Paid",
+        "unpaid": "Unpaid",
+        "settled": "Settled",
+        "pending": "Pending"
+      },
+      "actions": {
+        "transferReceipt": "Transfer receipt",
+        "viewInvoice": "View Invoice",
+        "pay": "Pay",
+        "uploadInvoice": "Upload Invoice"
+      },
+      "pagination": {
+        "page": "Page {current} of {total}",
+        "itemsPerPage": "{count} / page"
+      }
+    },
+    "modal": {
+      "personalSettings": "PERSONAL SETTINGS",
+      "tabs": {
+        "taxSalesInvoice": "TAX Sales Invoice",
+        "payment": "Payment",
+        "purchases": "Purchases",
+        "salesInvoice": "Sales Invoice"
+      },
+      "title": "Purchase invoice details",
+      "subtitle": "View retailer's details and send agreement",
+      "bankTransfer": {
+        "title": "Bank Transfer Slip",
+        "description": "Description texts only",
+        "pending": "Pending",
+        "payNow": "Pay Now"
+      },
+      "invoice": {
+        "item": {
+          "withNumber": "Item {number}",
+          "default": "Item"
+        },
+        "description": "Description texts only",
+        "amount": "Amount",
+        "tax": "Tax",
+        "total": "Total",
+        "title": "TAX Sales Invoice from Raff Co."
+      },
+      "payment": {
+        "title": "Settlement payment confirmation",
+        "description": "The full required amount of {amount} {currency} must be paid, and the bank transfer receipt must be attached.",
+        "amount": {
+          "label": "Amount",
+          "placeholder": "0.00",
+          "required": "Required"
+        },
+        "receipt": {
+          "label": "Bank transfer receipt",
+          "required": "Required",
+          "chooseFile": "Choose a file or drag & drop it here.",
+          "fileFormats": "JPEG, PNG formats, up to 5 MB.",
+          "uploadFile": "Upload File",
+          "remove": "Remove"
+        },
+        "notes": {
+          "label": "Notes",
+          "placeholder": "Placeholder text...",
+          "charCount": "{current}/200"
+        },
+        "actions": {
+          "cancel": "Cancel",
+          "confirm": "Confirm"
+        }
+      }
+    }
+  },
+  "actionCenter": {
+    "title": "Action Center",
+    "description": "Manage and track all pending actions and approvals",
+    "searchPlaceholder": "Search actions...",
+    "taskType": "Task Type",
+    "status": "Status",
+    "table": {
+      "no": "No.",
+      "type": "Type",
+      "taskName": "Task Name",
+      "description": "Description",
+      "dateTime": "Date & Time",
+      "status": "Status"
+    },
+    "statuses": {
+      "accepted": {
+        "label": "Accepted",
+        "className": "bg-[#E6F9ED] text-[#12B76A]"
+      },
+      "viewed": {
+        "label": "Viewed",
+        "className": "bg-[#F3F4F6] text-[#23272E]"
+      },
+      "pending": {
+        "label": "Pending",
+        "className": "bg-[#FFF7ED] text-[#F59E42]"
+      }
+    },
+    "actions": {
+      "view": "View",
+      "approve": "Approve",
+      "reject": "Reject"
+    },
+    "pagination": {
+      "page": "Page {current} of {total}",
+      "itemsPerPage": "{count} items per page"
+    },
+    "modals": {
+      "approve": {
+        "title": "Confirm Approval",
+        "success": "Action approved successfully"
+      },
+      "reject": {
+        "title": "Confirm Rejection",
+        "success": "Action rejected successfully"
+      }
+    },
+    "approveModal": {
+      "title": "Confirm Approval",
+      "description": "Are you sure you want to approve this action?",
+      "cancel": "Cancel",
+      "confirm": "Confirm"
+    }
+  },
+  "template": {
+    "title": "Download Template",
+    "description": "Download the sales report template to fill in your data",
+    "validationRules": "Validation Rules",
+    "rules": {
+      "location": "Location",
+      "transactionNumber": "Transaction Number",
+      "transactionDate": "Transaction Date",
+      "productCode": "Product Code",
+      "quantity": "Quantity",
+      "sellingPrice": "Selling Price",
+      "tax": "Tax"
+    }
+  }
+}
