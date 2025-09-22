@@ -1,0 +1,16 @@
+version = 1
+
+# Enable JavaScript/TypeScript Analyzer
+[[analyzers]]
+name = "javascript"
+enabled = true
+
+  [analyzers.meta]
+  runtime = "nodejs"
+  dialect = "typescript" # important for NestJS / Next.js projects
+
+# Enable Prettier for auto-formatting
+[[transformers]]
+name = "prettier"
+enabled = true
+
